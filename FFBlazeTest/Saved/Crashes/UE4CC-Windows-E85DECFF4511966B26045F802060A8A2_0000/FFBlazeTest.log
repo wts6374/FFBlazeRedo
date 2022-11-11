@@ -1,0 +1,1024 @@
+﻿Log file open, 02/18/22 10:41:06
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FFBlazeTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410177
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: Radeon RX 5500 XT
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/Program/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.18-15.41.06:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:935][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.18-15.41.06:949][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.18-15.41.06:950][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.18-15.41.06:950][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.18-15.41.06:950][  0]LogHAL: Display: Platform has ~ 32 GB [34258243584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.18-15.41.06:950][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.18-15.41.06:950][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.18-15.41.06:951][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.02.18-15.41.06:951][  0]LogInit: Computer: DESKTOP-6D5SDRF
+[2022.02.18-15.41.06:951][  0]LogInit: User: WTS
+[2022.02.18-15.41.06:951][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.02.18-15.41.06:951][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.18-15.41.06:951][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.02.18-15.41.06:951][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.18-15.41.06:951][  0]LogMemory: Process Physical Memory: 141.38 MB used, 141.39 MB peak
+[2022.02.18-15.41.06:951][  0]LogMemory: Process Virtual Memory: 131.52 MB used, 131.52 MB peak
+[2022.02.18-15.41.06:951][  0]LogMemory: Physical Memory: 8025.82 MB used,  24645.38 MB free, 32671.21 MB total
+[2022.02.18-15.41.06:951][  0]LogMemory: Virtual Memory: 134190232.00 MB used,  27495.88 MB free, 134217728.00 MB total
+[2022.02.18-15.41.06:957][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.18-15.41.06:970][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.18-15.41.06:971][  0]LogInit: Using OS detected language (en-US).
+[2022.02.18-15.41.06:971][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.18-15.41.06:972][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.18-15.41.07:109][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.18-15.41.07:116][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.18-15.41.07:144][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.18-15.41.07:144][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.18-15.41.07:256][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.18-15.41.07:256][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.18-15.41.07:256][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.18-15.41.07:256][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.18-15.41.07:294][  0]LogD3D11RHI:    0. 'Radeon RX 5500 XT' (Feature Level 11_0)
+[2022.02.18-15.41.07:294][  0]LogD3D11RHI:       8151/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.02.18-15.41.07:295][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.18-15.41.07:295][  0]LogD3D11RHI:       0/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.18-15.41.07:295][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.18-15.41.07:307][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.18-15.41.07:307][  0]LogD3D11RHI:     GPU DeviceId: 0x7340 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.18-15.41.07:308][  0]LogWindows: EnumDisplayDevices:
+[2022.02.18-15.41.07:308][  0]LogWindows:    0. 'Radeon RX 5500 XT' (P:0 D:1)
+[2022.02.18-15.41.07:308][  0]LogWindows:    1. 'Radeon RX 5500 XT' (P:1 D:1)
+[2022.02.18-15.41.07:308][  0]LogWindows:    2. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.02.18-15.41.07:308][  0]LogWindows:    3. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.02.18-15.41.07:309][  0]LogWindows:    4. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.02.18-15.41.07:309][  0]LogWindows:    5. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.02.18-15.41.07:309][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.02.18-15.41.07:309][  0]LogD3D11RHI:     Adapter Name: Radeon RX 5500 XT
+[2022.02.18-15.41.07:309][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.23.04 (internal:30.0.13023.4001, unified:30.0.13023.4001)
+[2022.02.18-15.41.07:309][  0]LogD3D11RHI:      Driver Date: 12-16-2021
+[2022.02.18-15.41.07:309][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2022.02.18-15.41.07:357][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.18-15.41.07:357][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.18-15.41.07:357][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.18-15.41.07:372][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.02.18-15.41.07:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.18-15.41.07:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.18-15.41.07:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.18-15.41.07:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.18-15.41.07:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.18-15.41.07:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.18-15.41.07:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.18-15.41.07:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.18-15.41.07:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.18-15.41.07:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.18-15.41.07:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.18-15.41.07:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.18-15.41.07:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.18-15.41.07:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.18-15.41.07:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.18-15.41.07:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.18-15.41.07:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.18-15.41.07:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.18-15.41.07:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.18-15.41.07:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.18-15.41.07:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.18-15.41.07:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.18-15.41.07:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.18-15.41.07:764][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.18-15.41.07:769][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.18-15.41.07:806][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.18-15.41.07:806][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Intermediate/Shaders/WorkingDirectory/51148/).
+[2022.02.18-15.41.07:806][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/WTS/AppData/Local/Temp/UnrealShaderWorkingDir/D086CBBC46970B830AE0CB9C3272E0F5/'.
+[2022.02.18-15.41.07:806][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.18-15.41.07:806][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.18-15.41.08:438][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.18-15.41.08:479][  0]LogDerivedDataCache: Loaded boot cache 0.04s 97MB C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.18-15.41.08:479][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.18-15.41.08:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.18-15.41.08:488][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.18-15.41.08:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.18-15.41.08:489][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.18-15.41.08:499][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.18-15.41.08:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.18-15.41.08:499][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.18-15.41.08:505][  0]LogDerivedDataCache: Speed tests for C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.18-15.41.08:505][  0]LogDerivedDataCache: Display: Performance to C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1744.25MBs, RandomWriteSpeed=198.16MBs. Assigned SpeedClass 'Local'
+[2022.02.18-15.41.08:506][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.18-15.41.08:506][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.18-15.41.08:506][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.18-15.41.08:548][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.18-15.41.08:548][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.18-15.41.08:570][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.02.18-15.41.08:751][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.18-15.41.08:751][  0]LogInit: Active device profile: [000001BFE1BA9B00][000001BFDFFF6B40 49] Windows
+[2022.02.18-15.41.08:751][  0]LogInit: Profiles: [000001BFE1BA9B00][000001BFDFFF6B40 49] Windows, [000001BFE1B8CD00][000001BFDFFFECC0 49] WindowsNoEditor, [000001BFE1BA8C00][000001BFE0002E40 49] WindowsServer, [000001BFE1B8E800][000001BFE0006FC0 49] WindowsClient, [000001BFE1BAB700][000001BFE000B140 49] IOS, [000001BFE1B8F400][000001BFE000F2C0 49] iPadAir, [000001BFE1BAAE00][000001BFE0013440 49] iPadAir2, [000001BFE1B4AD00][000001BFE001B700 49] IPadPro, [000001BFE1B4AE00][000001BFE0017740 49] iPadAir3, [000001BFE1BA9300][000001BFDFFFB880 49] iPadAir4, [000001BFE1B4A700][000001BFE001F9C0 49] iPadMini2, [000001BFE1BAB200][000001BFE0023B00 49] iPadMini3, [000001BFE1B49600][000001BFE002BC80 49] iPadMini4, [000001BFE1BA9100][000001BFE002E140 49] iPadMini5, [000001BFE1B76600][000001BFE0036400 49] iPhone6, [000001BFE1B76700][000001BFE0032440 49] iPodTouch6, [000001BFE1B4B500][000001BFE003E700 49] iPhone7, [000001BFE1B4B600][000001BFE003A740 49] iPodTouch7, [000001BFE1B77F00][000001BFE00428C0 49] iPhone5S, [000001BFE1B4A300][000001BFE0046A40 49] iPhone6Plus, [000001BFE1B75400][000001BFE004ABC0 49] iPhone6S, [000001BFE1B49100][000001BFE004ED40 49] iPhone6SPlus, [000001BFE1B74300][000001BFE0052EC0 49] iPhone7Plus, [000001BFE1B48B00][000001BFE0057040 49] iPhoneSE, [000001BFE1B77200][000001BFE005B1C0 49] iPhone8, [000001BFE1B49500][000001BFE005F340 49] iPhone8Plus, [000001BFE1B75900][000001BFE00634C0 49] iPhoneX, [000001BFE1B4A100][000001BFE0067640 49] iPhoneXS, [000001BFE1B76300][000001BFE006B7C0 49] iPhoneXSMax, [000001BFE1B4BA00][000001BFE0027900 49] iPhoneXR, [000001BFE1B75E00][000001BFE006FA40 49] iPhone11, [000001BFE1B48C00][000001BFE0073B80 49] iPhone11Pro, [000001BFE1B77300][000001BFE007BD00 49] iPhone11ProMax, [000001BFE1B48100][000001BFE007E1C0 49] iPhoneSE2, [000001BFE1B74500][000001BFE0082340 49] iPhone12Mini, [000001BFE1B49700][000001BFE00864C0 49] iPhone12, [000001BFE1B76800][000001BFE008A640 49] iPhone12Pro, [000001BFE1B4BF00][000001BFE008E7C0 49] iPhone12ProMax, [000001BFE1B77000][000001BFE0092940 49] iPadPro105, [000001BFE1B8E200][000001BFE0096AC0 49] iPadPro129, [000001BFE1B49F00][000001BFE009AC40 49] iPadPro97, [000001BFE1B8C900][000001BFE009EDC0 49] iPadPro2_129, [000001BFE1B4B200][000001BFE00A2F40 49] iPad5, [000001BFE1B8DF00][000001BFE00A70C0 49] iPad6, [000001BFE1B4A200][000001BFE00AB240 49] iPad7, [000001BFE1B8F200][000001BFE00AF3C0 49] iPad8, [000001BFE1B49200][000001BFE00B3540 49] iPadPro11, [000001BFE1B74F00][000001BFE00B76C0 49] iPadPro2_11, [000001BFE1B8E000][000001BFE00BB840 49] iPadPro3_129, [000001BFE1B77C00][000001BFE0077980 49] iPadPro4_129, [000001BFE1B8D800][000001BFE09F3AC0 49] AppleTV, [000001BFE1B76000][000001BFE09F7C00 49] AppleTV4K, [000001BFE1B8C300][000001BFE09FE0C0 49] TVOS, [000001BFE1B48900][000001BFE0A02240 49] Mac, [000001BFE1B8E700][000001BFE0A063C0 49] MacClient, [000001BFE1B4A000][000001BFE0A0A540 49] MacNoEditor, [000001BFE1B8E100][000001BFE0A0E6C0 49] MacServer, [000001BFE1B4B700][000001BFE0A12840 49] Linux, [000001BFE1B8DE00][000001BFE0A169C0 49] LinuxNoEditor, [000001BFE1B4B100][000001BFE0A1AB40 49] LinuxAArch64NoEditor, [000001BFE1B8EC00][000001BFE0A1ECC0 49] LinuxClient, [000001BFE1B48700][000001BFE0A22E40 49] LinuxAArch64Client, [000001BFE1B8CC00][000001BFE0A26FC0 49] LinuxServer, [000001BFE1B49C00][000001BFE0A2B140 49] LinuxAArch64Server, [000001BFE1B8F100][000001BFE0A2F2C0 49] Android, [000001BFE1B48F00][000001BFE0A33440 49] Android_Low, [000001BFE1B8CF00][000001BFE0A375C0 49] Android_Mid, [000001BFE1B48400][000001BFE0A3B740 49] Android_High, [000001BFE1B8DA00][000001BFE0A3F8C0 49] Android_Default, [000001BFE1B48800][000001BFE09FBA00 49] Android_Adreno4xx, [000001BFE1B8E600][000001BFE0A43B40 49] Android_Adreno5xx_Low, [000001BFE1B48200][000001BFE0A47C80 49] Android_Adreno5xx, [000001BFE1B8EB00][000001BFE0A4A100 49] Android_Adreno6xx, [000001BFE1B4B900][000001BFE0A52280 49] Android_Adreno6xx_Vulkan, [000001BFE1B8F500][000001BFE0A56400 49] Android_Mali_T6xx, [000001BFE1B49E00][000001BFE0A5A580 49] Android_Mali_T7xx, [000001BFE1B8EF00][000001BFE0A5E700 49] Android_Mali_T8xx, [000001BFE1B49300][000001BFE0A62880 49] Android_Mali_G71, [000001BFE1B8D100][000001BFE0A66A00 49] Android_Mali_G72, [000001BFE1B48500][000001BFE0A6AB80 49] Android_Mali_G72_Vulkan, [000001BFE1B8FD00][000001BFE0A6ED00 49] Android_Mali_G76, [000001BFE1B48E00][000001BFE0A72E80 49] Android_Mali_G76_Vulkan, [000001BFE1B8D700][000001BFE0A77000 49] Android_Mali_G77, [000001BFE1B4AF00][000001BFE0A7B180 49] Android_Mali_G77_Vulkan, [000001BFE1B8F800][000001BFE0A7F300 49] Android_Vulkan_SM5, [000001BFE1B4B800][000001BFE0A83480 49] Android_PowerVR_G6xxx, [000001BFE1B8D400][000001BFE0A87600 49] Android_PowerVR_GT7xxx, [000001BFE1B4BD00][000001BFE0A8B780 49] Android_PowerVR_GE8xxx, [000001BFE1B8CA00][000001BFE0A8F900 49] Android_PowerVR_GM9xxx, [000001BFE1B49000][000001BFE0A4FA40 49] Android_PowerVR_GM9xxx_Vulkan, [000001BFE1B8DC00][000001BFE0A93B80 49] Android_TegraK1, [000001BFE1B4A500][000001BFE0A97CC0 49] Android_Unknown_Vulkan, [000001BFE1B8C500][000001BFE0A9A140 49] Lumin, [000001BFE1B75A00][000001BFE0AA22C0 49] Lumin_Desktop, [000001BFE1BAB800][000001BFE0AA6440 49] HoloLens, 
+[2022.02.18-15.41.08:870][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.18-15.41.08:870][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.18-15.41.08:870][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.18-15.41.08:870][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.18-15.41.08:870][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.18-15.41.08:891][  0]LogNetVersion: FFBlazeTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3125185729)
+[2022.02.18-15.41.09:244][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.18-15.41.10:741][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 1.496637 seconds
+[2022.02.18-15.41.10:747][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2022.02.18-15.41.10:747][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2022.02.18-15.41.10:747][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.18-15.41.11:066][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.18-15.41.11:071][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.18-15.41.11:116][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.02.18-15.41.11:116][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.02.18-15.41.11:116][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.02.18-15.41.11:400][  0]SourceControl: Source control is disabled
+[2022.02.18-15.41.13:283][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.18-15.41.13:296][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.18-15.41.13:296][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.18-15.41.13:333][  0]LogUProjectInfo: Found projects:
+[2022.02.18-15.41.13:356][  0]LogCollectionManager: Loaded 0 collections in 0.000546 seconds
+[2022.02.18-15.41.13:374][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Collections/' took 0.00s
+[2022.02.18-15.41.13:374][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/Developers/WTS/Collections/' took 0.00s
+[2022.02.18-15.41.13:374][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/Collections/' took 0.00s
+[2022.02.18-15.41.13:374][  0]LogOcInput: OculusInput pre-init called
+[2022.02.18-15.41.13:381][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.18-15.41.13:381][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.18-15.41.13:424][  0]LogEngine: Initializing Engine...
+[2022.02.18-15.41.13:425][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.18-15.41.13:430][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.18-15.41.13:431][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.18-15.41.13:516][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.18-15.41.13:522][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.18-15.41.13:534][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.18-15.41.13:537][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.18-15.41.13:537][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.18-15.41.13:537][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.18-15.41.13:537][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.18-15.41.13:537][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.18-15.41.13:544][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.18-15.41.13:544][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.18-15.41.13:583][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.18-15.41.13:584][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.18-15.41.13:585][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.18-15.41.13:585][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.18-15.41.13:586][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.18-15.41.13:586][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.18-15.41.13:586][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.18-15.41.13:587][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.18-15.41.13:587][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.18-15.41.13:587][  0]LogInit: FAudioDevice initialized.
+[2022.02.18-15.41.13:587][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.18-15.41.13:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.18-15.41.13:643][  0]LogDerivedDataCache: Saved boot cache 0.06s 97MB C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.18-15.41.13:644][  0]LogInit: Texture streaming: Enabled
+[2022.02.18-15.41.13:654][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2022.02.18-15.41.13:657][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.18-15.41.13:657][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.18-15.41.13:658][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.18-15.41.14:550][  0]LogInit: Transaction tracking system initialized
+[2022.02.18-15.41.14:565][  0]BlueprintLog: New page: Editor Load
+[2022.02.18-15.41.14:613][  0]LocalizationService: Localization service is disabled
+[2022.02.18-15.41.14:687][  0]TimingProfiler: Initialize
+[2022.02.18-15.41.14:687][  0]TimingProfiler: OnSessionChanged
+[2022.02.18-15.41.14:687][  0]LoadingProfiler: Initialize
+[2022.02.18-15.41.14:687][  0]LoadingProfiler: OnSessionChanged
+[2022.02.18-15.41.14:687][  0]NetworkingProfiler: Initialize
+[2022.02.18-15.41.14:687][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.18-15.41.14:687][  0]MemoryProfiler: Initialize
+[2022.02.18-15.41.14:687][  0]MemoryProfiler: OnSessionChanged
+[2022.02.18-15.41.14:691][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.02.18-15.41.14:691][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.02.18-15.41.14:884][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.18-15.41.14:884][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.18-15.41.14:992][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/' took 0.06s
+[2022.02.18-15.41.15:100][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.18-15.41.15:102][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.460
+[2022.02.18-15.41.15:103][  0]Cmd: MAP LOAD FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Testmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.18-15.41.15:103][  0]LightingResults: New page: Lighting Build
+[2022.02.18-15.41.15:103][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-15.41.15:103][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-15.41.15:103][  0]MapCheck: New page: Map Check
+[2022.02.18-15.41.15:103][  0]LightingResults: New page: Lighting Build
+[2022.02.18-15.41.15:112][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.18-15.41.22:437][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testmap'.
+[2022.02.18-15.41.22:461][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.18-15.41.22:517][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.02.18-15.41.22:517][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.18-15.41.22:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2022.02.18-15.41.22:517][  0]LogFileHelpers: Loading map 'Testmap' took 7.414
+[2022.02.18-15.41.22:519][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.875
+[2022.02.18-15.41.23:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.18-15.41.23:010][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.18-15.41.23:015][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.18-15.41.23:021][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.18-15.41.23:051][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0087 seconds. Added 3601 classes and 859 folders.
+[2022.02.18-15.41.23:059][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.18-15.41.23:063][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.18-15.41.23:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.18-15.41.23:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.02.18-15.41.23:065][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.18-15.41.23:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.18-15.41.23:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.02.18-15.41.23:066][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.18-15.41.23:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.18-15.41.23:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.02.18-15.41.23:067][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.18-15.41.23:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.18-15.41.23:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.02.18-15.41.23:069][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.18-15.41.23:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.18-15.41.23:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.02.18-15.41.23:070][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.18-15.41.23:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.18-15.41.23:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.02.18-15.41.23:071][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.18-15.41.23:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.18-15.41.23:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.02.18-15.41.23:073][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.18-15.41.23:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.18-15.41.23:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.02.18-15.41.23:074][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.18-15.41.23:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.18-15.41.23:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.02.18-15.41.23:075][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.18-15.41.23:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.18-15.41.23:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.02.18-15.41.23:077][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.18-15.41.23:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.18-15.41.23:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.02.18-15.41.23:078][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.18-15.41.23:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.18-15.41.23:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.02.18-15.41.23:079][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.18-15.41.23:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.18-15.41.23:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.02.18-15.41.23:081][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.18-15.41.23:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.18-15.41.23:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.02.18-15.41.23:082][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.18-15.41.23:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.18-15.41.23:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.02.18-15.41.23:083][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.18-15.41.23:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.18-15.41.23:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.02.18-15.41.23:085][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.18-15.41.23:085][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:085][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.18-15.41.23:085][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.02.18-15.41.23:086][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.18-15.41.23:086][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:086][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.18-15.41.23:086][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.02.18-15.41.23:087][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.18-15.41.23:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.18-15.41.23:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.02.18-15.41.23:088][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.18-15.41.23:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.18-15.41.23:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.18-15.41.23:090][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.18-15.41.23:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.18-15.41.23:090][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.18-15.41.23:091][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.18-15.41.23:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.18-15.41.23:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.18-15.41.23:092][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.18-15.41.23:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.18-15.41.23:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.18-15.41.23:094][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.18-15.41.23:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.18-15.41.23:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.18-15.41.23:097][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.18-15.41.23:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.18-15.41.23:098][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.18-15.41.23:099][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.18-15.41.23:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.18-15.41.23:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.18-15.41.23:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.18-15.41.23:187][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.02.18-15.41.23:192][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.02.18-15.41.23:406][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.18-15.41.23:406][  0]LogLoad: (Engine Initialization) Total time: 17.76 seconds
+[2022.02.18-15.41.23:406][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.18-15.41.23:406][  0]LogInit: First time updating LLM stats...
+[2022.02.18-15.41.23:448][  0]LogAssetRegistry: Asset discovery search completed in 14.8796 seconds
+[2022.02.18-15.41.23:449][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.02.18-15.41.23:480][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.18-15.41.23:488][  0]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.18-15.41.23:489][  0]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.18-15.41.23:494][  0]LogSlate: Took 0.000648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.18-15.41.23:928][  0]LogRenderer: Reallocating scene render targets to support 1132x476 Format 10 NumSamples 1 (Frame:1).
+[2022.02.18-15.41.23:928][  0]LogSlate: Took 0.000733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.18-15.44.21:873][140]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.18-15.44.21:883][140]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FFBLAZE/NewBlaze/newBlazeAnim.newBlazeAnim
+[2022.02.18-15.44.21:907][140]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.02.18-15.44.22:079][140]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.18-15.44.22:085][140]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.02.18-15.44.22:277][140]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.18-15.44.23:243][140]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.18-15.44.28:084][521]LogSlate: Took 0.000958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.18-15.51.23:883][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.18-15.51.23:884][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.020
+[2022.02.18-15.51.24:300][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/NewBlaze/newBlazeAnim] ([1] browsable assets)...
+[2022.02.18-15.51.24:323][492]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FFBLAZE/NewBlaze/newBlazeAnim.newBlazeAnim]
+[2022.02.18-15.51.24:323][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/NewBlaze/newBlazeAnim]
+[2022.02.18-15.51.24:465][492]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/newBlazeAnim_Auto156D3C6B54DFE8503BC0DE19B51194231.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/NewBlaze/newBlazeAnim_Auto1.uasset'
+[2022.02.18-15.51.24:467][492]LogFileHelpers: Auto-saving content packages took 0.582
+[2022.02.18-15.58.59:412][188]BlueprintLog: New page: Compile newBlazeAnim
+[2022.02.18-15.58.59:483][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.02.18-15.59.00:699][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/NewBlaze/newBlazeAnim" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/newBlazeAnim.uasset" SILENT=true
+[2022.02.18-15.59.00:819][263]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/newBlazeAnimE71BC2D24BC709948196849C1F5FA80C.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/newBlazeAnim.uasset'
+[2022.02.18-15.59.00:834][263]AssetCheck: New page: Asset Save: newBlazeAnim
+[2022.02.18-15.59.00:834][263]LogContentValidation: Display: Validating AnimBlueprint /Game/FFBLAZE/NewBlaze/newBlazeAnim.newBlazeAnim
+[2022.02.18-16.32.21:174][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FFBLAZE/BP_BlazeCharacter.BP_BlazeCharacter
+[2022.02.18-16.36.30:062][786]BlueprintLog: New page: Compile BP_BlazeCharacter
+[2022.02.18-16.36.30:093][786]LogBlueprint: Error: [AssetLog] F:\Co-op\MoonRift\FFBlaze\FFBlazeGame\FFBlazeTest\Content\FFBLAZE\BP_BlazeCharacter.uasset: [Compiler] Could not find a function named "CheckBlsting" in 'BP_BlazeCharacter_C'.
+Make sure 'BP_BlazeCharacter_C' has been compiled for  Check Blsting
+[2022.02.18-16.36.30:157][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.18-16.36.30:703][786]LogSlate: Took 0.004933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.18-16.36.46:381][ 76]BlueprintLog: New page: Compile BP_BlazeCharacter
+[2022.02.18-16.36.46:486][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.18-16.36.47:753][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/BP_BlazeCharacter" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/BP_BlazeCharacter.uasset" SILENT=true
+[2022.02.18-16.36.49:018][146]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_BlazeCharacter2553A75A46FAF3146C57E2A9E2BB01CB.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/BP_BlazeCharacter.uasset'
+[2022.02.18-16.36.49:059][146]AssetCheck: New page: Asset Save: BP_BlazeCharacter
+[2022.02.18-16.36.49:059][146]LogContentValidation: Display: Validating Blueprint /Game/FFBLAZE/BP_BlazeCharacter.BP_BlazeCharacter
+[2022.02.18-16.59.42:304][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/BP_BlazeCharacter" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/BP_BlazeCharacter.uasset" SILENT=true
+[2022.02.18-16.59.42:763][150]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_BlazeCharacter2C4E4E3649E0F27399E005B7416ACCD1.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/BP_BlazeCharacter.uasset'
+[2022.02.18-16.59.42:775][150]AssetCheck: New page: Asset Save: BP_BlazeCharacter
+[2022.02.18-16.59.42:775][150]LogContentValidation: Display: Validating Blueprint /Game/FFBLAZE/BP_BlazeCharacter.BP_BlazeCharacter
+[2022.02.18-16.59.52:971][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylishCombatKit/Projectiles/BP_WaterBullet.BP_WaterBullet
+[2022.02.18-17.00.44:468][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.18-17.00.44:469][ 15]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.023
+[2022.02.18-17.00.44:860][ 15]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StylishCombatKit/Projectiles/BP_WaterBullet] ([1] browsable assets)...
+[2022.02.18-17.00.44:873][ 15]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StylishCombatKit/Projectiles/BP_WaterBullet.BP_WaterBullet]
+[2022.02.18-17.00.44:873][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/StylishCombatKit/Projectiles/BP_WaterBullet]
+[2022.02.18-17.00.44:913][ 15]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_WaterBullet_Auto216F4446D4D217015B95470B4369F5580.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/StylishCombatKit/Projectiles/BP_WaterBullet_Auto2.uasset'
+[2022.02.18-17.00.44:914][ 15]LogFileHelpers: Auto-saving content packages took 0.445
+[2022.02.18-17.02.11:604][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylishCombatKit/Projectiles/BP_KiSlashProjectile.BP_KiSlashProjectile
+[2022.02.18-17.02.47:402][595]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylishCombatKit/Projectiles/BP_OverdriveProjectile.BP_OverdriveProjectile
+[2022.02.18-17.04.10:705][162]BlueprintLog: New page: Compile BP_WaterBullet
+[2022.02.18-17.04.10:776][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.02.18-17.10.45:071][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.02.18-17.10.45:072][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.026
+[2022.02.18-17.10.45:072][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StylishCombatKit/Projectiles/BP_WaterBullet] ([1] browsable assets)...
+[2022.02.18-17.10.45:091][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StylishCombatKit/Projectiles/BP_WaterBullet.BP_WaterBullet]
+[2022.02.18-17.10.45:091][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/StylishCombatKit/Projectiles/BP_WaterBullet]
+[2022.02.18-17.10.45:120][817]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_WaterBullet_Auto319C9D7DD40442CD2E574D6849B478D1D.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/StylishCombatKit/Projectiles/BP_WaterBullet_Auto3.uasset'
+[2022.02.18-17.10.45:121][817]LogFileHelpers: Auto-saving content packages took 0.049
+[2022.02.18-17.49.56:436][365]BlueprintLog: New page: Compile BP_WaterBullet
+[2022.02.18-17.49.56:487][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.18-17.49.57:444][431]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_WaterBullet311E306640BDB7D08939FF98B0F90B44.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Projectiles/BP_WaterBullet.uasset'
+[2022.02.18-17.49.57:457][431]AssetCheck: New page: Asset Save: BP_WaterBullet
+[2022.02.18-17.49.57:457][431]LogContentValidation: Display: Validating Blueprint /Game/StylishCombatKit/Projectiles/BP_WaterBullet.BP_WaterBullet
+[2022.02.18-17.50.46:522][752]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-17.50.46:522][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-17.50.47:927][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.18-17.50.47:927][866]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-17.50.47:927][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-17.53.06:609][779]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylishCombatKit/Main/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.18-17.54.52:911][956]LogEditorTransaction: Undo Move Node
+[2022.02.18-17.54.53:090][956]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.18-17.54.53:765][989]LogEditorTransaction: Undo Move Node
+[2022.02.18-17.54.53:882][989]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.18-17.54.54:745][ 46]LogEditorTransaction: Undo Move Node
+[2022.02.18-17.54.54:864][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.18-17.54.55:537][ 60]LogEditorTransaction: Undo Move Node
+[2022.02.18-17.54.55:650][ 60]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.18-17.56.18:721][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.02.18-17.56.18:820][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StylishCombatKit/Main/BP_BaseCharacter" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Main/BP_BaseCharacter.uasset" SILENT=true
+[2022.02.18-17.56.19:476][554]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_BaseCharacterFABA1F794DCB153503F703B73BB80297.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Main/BP_BaseCharacter.uasset'
+[2022.02.18-17.56.19:505][554]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.18-17.56.19:505][554]LogContentValidation: Display: Validating Blueprint /Game/StylishCombatKit/Main/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.18-18.04.55:210][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.18-18.04.55:211][353]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.021
+[2022.02.18-18.04.55:212][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StylishCombatKit/Main/BP_BaseCharacter] ([1] browsable assets)...
+[2022.02.18-18.04.55:233][353]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StylishCombatKit/Main/BP_BaseCharacter.BP_BaseCharacter]
+[2022.02.18-18.04.55:233][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/StylishCombatKit/Main/BP_BaseCharacter]
+[2022.02.18-18.04.56:182][353]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_BaseCharacter_Auto4FC244BEC4EC064BB990FCD9ACD8B58BE.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/StylishCombatKit/Main/BP_BaseCharacter_Auto4.uasset'
+[2022.02.18-18.04.56:185][353]LogFileHelpers: Auto-saving content packages took 0.973
+[2022.02.18-18.14.45:525][941]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.18-18.14.46:162][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.18-18.14.47:171][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StylishCombatKit/Main/BP_BaseCharacter" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Main/BP_BaseCharacter.uasset" SILENT=true
+[2022.02.18-18.14.47:826][997]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_BaseCharacter4187805F4B7C05EE3316338152EAE0B8.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Main/BP_BaseCharacter.uasset'
+[2022.02.18-18.14.47:848][997]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.18-18.14.47:848][997]LogContentValidation: Display: Validating Blueprint /Game/StylishCombatKit/Main/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.18-18.15.15:175][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.02.18-18.15.15:176][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Testmap" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Testmap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.18-18.15.15:702][211]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Testmap_Auto5CED69D094D451E15657BF5A5F543DF8B.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Testmap_Auto5.umap'
+[2022.02.18-18.15.15:947][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.799
+[2022.02.18-18.15.15:947][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.799
+[2022.02.18-18.20.03:926][118]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.18-18.20.04:508][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.02.18-18.20.05:719][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StylishCombatKit/Main/BP_BaseCharacter" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Main/BP_BaseCharacter.uasset" SILENT=true
+[2022.02.18-18.20.06:773][172]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BP_BaseCharacterDEF34D2640B5D6489B2E58830FAADDE2.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/StylishCombatKit/Main/BP_BaseCharacter.uasset'
+[2022.02.18-18.20.06:798][172]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.18-18.20.06:798][172]LogContentValidation: Display: Validating Blueprint /Game/StylishCombatKit/Main/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.18-18.22.16:162][150]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.02.18-18.22.16:169][150]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.02.18-18.22.16:294][150]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.02.18-18.22.16:579][163]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.02.18-18.22.16:579][163]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.02.18-18.22.16:579][163]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.02.18-18.22.24:276][664]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BlazeWaterMovement
+[2022.02.18-18.22.25:061][664]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.02.18-18.25.16:173][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.18-18.25.16:176][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Testmap" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Testmap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.18-18.25.16:612][211]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Testmap_Auto6B80F686C4D91B8AF2EB36E8805AECCB1.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Testmap_Auto6.umap'
+[2022.02.18-18.25.16:677][211]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.533
+[2022.02.18-18.25.16:677][211]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.533
+[2022.02.18-18.32.18:051][622]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/FFBLAZE/NewBlaze/BlazeWaterMovement.BlazeWaterMovement
+[2022.02.18-18.32.18:092][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.18-18.32.19:064][622]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.18-18.33.10:996][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/NewBlaze/BlazeWaterMovement" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/BlazeWaterMovement.uasset" SILENT=true
+[2022.02.18-18.33.11:003][721]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/BlazeWaterMovementD99CCFF24714BECC15BA2C9A89E353CF.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/BlazeWaterMovement.uasset'
+[2022.02.18-18.33.11:352][721]AssetCheck: New page: Asset Save: BlazeWaterMovement
+[2022.02.18-18.33.11:352][721]LogContentValidation: Display: Validating BlendSpace1D /Game/FFBLAZE/NewBlaze/BlazeWaterMovement.BlazeWaterMovement
+[2022.02.18-18.46.41:286][265]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.18-18.47.16:561][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.02.18-18.47.16:564][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.064
+[2022.02.18-18.47.16:564][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/NewBlaze/newBlazeAnim] ([1] browsable assets)...
+[2022.02.18-18.47.16:586][239]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FFBLAZE/NewBlaze/newBlazeAnim.newBlazeAnim]
+[2022.02.18-18.47.16:586][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/NewBlaze/newBlazeAnim]
+[2022.02.18-18.47.16:749][239]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/newBlazeAnim_Auto70D07CD36440B7D03839F94933C913D74.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/NewBlaze/newBlazeAnim_Auto7.uasset'
+[2022.02.18-18.47.16:750][239]LogFileHelpers: Auto-saving content packages took 0.186
+[2022.02.18-18.48.53:795][527]LogRenderer: Reallocating scene render targets to support 1148x476 Format 10 NumSamples 1 (Frame:107600).
+[2022.02.18-18.48.53:965][527]LogRenderer: Reallocating scene render targets to support 1152x476 Format 10 NumSamples 1 (Frame:107601).
+[2022.02.18-18.49.22:092][709]BlueprintLog: New page: Compile newBlazeAnim
+[2022.02.18-18.49.22:185][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.02.18-18.49.23:296][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/NewBlaze/newBlazeAnim" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/newBlazeAnim.uasset" SILENT=true
+[2022.02.18-18.49.23:818][781]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/newBlazeAnimF999762A4E2AF998D045AEAC8F506762.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/newBlazeAnim.uasset'
+[2022.02.18-18.49.23:832][781]AssetCheck: New page: Asset Save: newBlazeAnim
+[2022.02.18-18.49.23:832][781]LogContentValidation: Display: Validating AnimBlueprint /Game/FFBLAZE/NewBlaze/newBlazeAnim.newBlazeAnim
+[2022.02.18-18.57.17:157][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.02.18-18.57.17:159][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Testmap' took 0.034
+[2022.02.18-18.57.17:160][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FFBLAZE/NewBlaze/newBlazeAnim] ([1] browsable assets)...
+[2022.02.18-18.57.17:160][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/NewBlaze/newBlazeAnim]
+[2022.02.18-18.57.17:610][808]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/newBlazeAnim_Auto848B36F994FC28024E73761B05290F8FE.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/NewBlaze/newBlazeAnim_Auto8.uasset'
+[2022.02.18-18.57.17:611][808]LogFileHelpers: Auto-saving content packages took 0.452
+[2022.02.18-19.01.36:702][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/NewBlaze/newBlazeAnim" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/newBlazeAnim.uasset" SILENT=true
+[2022.02.18-19.01.37:175][987]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/newBlazeAnimF9B35EED447FF1685B4A4285F148CF49.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/NewBlaze/newBlazeAnim.uasset'
+[2022.02.18-19.01.37:186][987]AssetCheck: New page: Asset Save: newBlazeAnim
+[2022.02.18-19.01.37:186][987]LogContentValidation: Display: Validating AnimBlueprint /Game/FFBLAZE/NewBlaze/newBlazeAnim.newBlazeAnim
+[2022.02.18-19.01.42:761][448]LogRenderer: Reallocating scene render targets to support 1152x480 Format 10 NumSamples 1 (Frame:110642).
+[2022.02.18-19.01.42:905][449]LogRenderer: Reallocating scene render targets to support 1152x488 Format 10 NumSamples 1 (Frame:110644).
+[2022.02.18-19.01.43:017][450]LogRenderer: Reallocating scene render targets to support 1152x500 Format 10 NumSamples 1 (Frame:110646).
+[2022.02.18-19.01.43:131][451]LogRenderer: Reallocating scene render targets to support 1152x504 Format 10 NumSamples 1 (Frame:110648).
+[2022.02.18-19.01.53:091][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x303)
+[2022.02.18-19.01.54:006][329]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.18-19.01.54:019][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.18-19.01.54:020][329]PIE: New page: PIE session: Testmap (Feb 18, 2022, 9:01:54 AM)
+[2022.02.18-19.01.54:021][329]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.18-19.01.54:022][329]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.18-19.01.54:022][329]LogPlayLevel: Creating play world package: /Game/FFBLAZE/UEDPIE_0_Testmap
+[2022.02.18-19.01.54:105][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083011s)
+[2022.02.18-19.01.54:106][329]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2022.02.18-19.01.54:106][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FFBLAZE/Testmap.Testmap to /Game/FFBLAZE/UEDPIE_0_Testmap.Testmap (0.084120s)
+[2022.02.18-19.01.54:136][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.18-19.01.54:140][329]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.18-19.01.54:140][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.18-19.01.54:140][329]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.18-19.01.54:140][329]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.18-19.01.54:173][329]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.18-19.01.54:173][329]LogAudioMixer: Display: 1: FrontRight
+[2022.02.18-19.01.54:200][329]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.18-19.01.54:200][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.18-19.01.54:200][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.18-19.01.54:200][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.18-19.01.54:200][329]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.18-19.01.54:200][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.18-19.01.54:200][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.18-19.01.54:211][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.18-19.01.54:211][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.18-19.01.54:212][329]LogInit: FAudioDevice initialized.
+[2022.02.18-19.01.54:212][329]LogAudio: Display: Audio Device (ID: 2) registered with world 'Testmap'.
+[2022.02.18-19.01.54:218][329]LogLoad: Game class is 'GM_CombatGameMode_C'
+[2022.02.18-19.01.54:222][329]LogWorld: Bringing World /Game/FFBLAZE/UEDPIE_0_Testmap.Testmap up for play (max tick rate 0) at 2022.02.18-14.01.54
+[2022.02.18-19.01.54:226][329]LogWorld: Bringing up level for play took: 0.008032
+[2022.02.18-19.01.54:227][329]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.02.18-19.01.54:269][329]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.02.18-19.01.54:279][329]PIE: Server logged in
+[2022.02.18-19.01.54:281][329]PIE: Play in editor total start time 0.263 seconds.
+[2022.02.18-19.01.54:306][329]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2022.02.18-19.01.54:307][329]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2022.02.18-19.03.14:740][697]LogAnimMontage: Warning: Playing a Montage (jumpBack) for the wrong Skeleton (NewBlaze_Skeleton) instead of (Blaze_Skeleton).
+[2022.02.18-19.03.17:359][912]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.02.18-19.03.17:359][912]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.02.18-19.03.19:229][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.18-19.03.19:230][107]LogWorld: BeginTearingDown for /Game/FFBLAZE/UEDPIE_0_Testmap
+[2022.02.18-19.03.19:230][107]LogWorld: UWorld::CleanupWorld for Testmap, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.19:231][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.19:238][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.18-19.03.19:258][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.19:284][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.18-19.03.19:286][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.18-19.03.19:286][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.18-19.03.19:331][107]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.02.18-19.03.19:367][108]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.02.18-19.03.34:065][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.02.18-19.03.53:289][ 48]LogSlate: Window 'Replace References?' being destroyed
+[2022.02.18-19.03.53:292][ 48]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with BP_AirBlastProjectile; and then delete them.
+
+Are you sure?
+[2022.02.18-19.03.53:292][ 48]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.18-19.03.53:532][ 48]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:532][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:560][ 48]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:560][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:570][ 48]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:570][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:623][ 48]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:623][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:682][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.18-19.03.53:682][ 48]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:682][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:819][ 48]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:819][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:835][ 48]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:835][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.18-19.03.53:847][ 48]LogSlate: Window 'BP_BaseCharacter' being destroyed
+[2022.02.18-19.03.53:888][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.02.18-19.03.53:888][ 48]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.02.18-19.03.53:888][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

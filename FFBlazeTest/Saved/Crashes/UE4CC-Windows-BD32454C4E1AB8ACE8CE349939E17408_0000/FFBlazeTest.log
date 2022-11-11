@@ -1,0 +1,1994 @@
+﻿Log file open, 07/14/22 12:47:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FFBlazeTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.313528
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: Radeon RX 5500 XT
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/Program/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:278][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2022.07.14-16.47.22:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.14-16.47.22:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:279][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:291][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:291][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.14-16.47.22:291][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.14-16.47.22:291][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:291][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.14-16.47.22:291][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:291][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.14-16.47.22:291][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.14-16.47.22:291][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.14-16.47.22:292][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.14-16.47.22:292][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.14-16.47.22:292][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.07.14-16.47.22:292][  0]LogHAL: Display: Platform has ~ 32 GB [34258243584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.14-16.47.22:293][  0]LogInit: Going up to parent DeviceProfile []
+[2022.07.14-16.47.22:293][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.14-16.47.22:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.07.14-16.47.22:294][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.07.14-16.47.22:294][  0]LogInit: Computer: DESKTOP-6D5SDRF
+[2022.07.14-16.47.22:294][  0]LogInit: User: WTS
+[2022.07.14-16.47.22:294][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.14-16.47.22:294][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.14-16.47.22:294][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.07.14-16.47.22:294][  0]LogMemory: Platform Memory Stats for Windows
+[2022.07.14-16.47.22:294][  0]LogMemory: Process Physical Memory: 144.63 MB used, 144.63 MB peak
+[2022.07.14-16.47.22:294][  0]LogMemory: Process Virtual Memory: 132.05 MB used, 132.05 MB peak
+[2022.07.14-16.47.22:294][  0]LogMemory: Physical Memory: 8614.77 MB used,  24056.43 MB free, 32671.21 MB total
+[2022.07.14-16.47.22:294][  0]LogMemory: Virtual Memory: 134190496.00 MB used,  27234.67 MB free, 134217728.00 MB total
+[2022.07.14-16.47.22:300][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.14-16.47.22:314][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.07.14-16.47.22:314][  0]LogInit: Using OS detected language (en-US).
+[2022.07.14-16.47.22:314][  0]LogInit: Using OS detected locale (en-US).
+[2022.07.14-16.47.22:315][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.07.14-16.47.22:457][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.14-16.47.22:464][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.14-16.47.22:489][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.14-16.47.22:489][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.14-16.47.22:605][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.14-16.47.22:605][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.14-16.47.22:605][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.07.14-16.47.22:605][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.14-16.47.22:643][  0]LogD3D11RHI:    0. 'Radeon RX 5500 XT' (Feature Level 11_0)
+[2022.07.14-16.47.22:643][  0]LogD3D11RHI:       8151/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.07.14-16.47.22:645][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.07.14-16.47.22:645][  0]LogD3D11RHI:       0/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.14-16.47.22:645][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.07.14-16.47.22:662][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.14-16.47.22:662][  0]LogD3D11RHI:     GPU DeviceId: 0x7340 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.14-16.47.22:662][  0]LogWindows: EnumDisplayDevices:
+[2022.07.14-16.47.22:662][  0]LogWindows:    0. 'Radeon RX 5500 XT' (P:1 D:1)
+[2022.07.14-16.47.22:662][  0]LogWindows:    1. 'Radeon RX 5500 XT' (P:0 D:1)
+[2022.07.14-16.47.22:662][  0]LogWindows:    2. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.07.14-16.47.22:663][  0]LogWindows:    3. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.07.14-16.47.22:663][  0]LogWindows:    4. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.07.14-16.47.22:663][  0]LogWindows:    5. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.07.14-16.47.22:663][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.07.14-16.47.22:663][  0]LogD3D11RHI:     Adapter Name: Radeon RX 5500 XT
+[2022.07.14-16.47.22:663][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.23.04 (internal:30.0.13023.4001, unified:30.0.13023.4001)
+[2022.07.14-16.47.22:663][  0]LogD3D11RHI:      Driver Date: 12-16-2021
+[2022.07.14-16.47.22:663][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2022.07.14-16.47.22:713][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.07.14-16.47.22:713][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.14-16.47.22:713][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.14-16.47.22:728][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.07.14-16.47.22:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.14-16.47.22:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.14-16.47.23:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.14-16.47.23:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.14-16.47.23:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.14-16.47.23:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.07.14-16.47.23:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.14-16.47.23:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.14-16.47.23:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.07.14-16.47.23:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.07.14-16.47.23:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.07.14-16.47.23:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.07.14-16.47.23:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.07.14-16.47.23:085][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.07.14-16.47.23:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.07.14-16.47.23:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.07.14-16.47.23:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.07.14-16.47.23:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.14-16.47.23:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.14-16.47.23:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.07.14-16.47.23:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.14-16.47.23:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.14-16.47.23:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.14-16.47.23:145][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.07.14-16.47.23:150][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.14-16.47.23:188][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.14-16.47.23:188][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Intermediate/Shaders/WorkingDirectory/6216/).
+[2022.07.14-16.47.23:189][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/WTS/AppData/Local/Temp/UnrealShaderWorkingDir/57B8D5334ADD4DC23B0DCBB9BFAF6E7E/'.
+[2022.07.14-16.47.23:189][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.07.14-16.47.23:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.07.14-16.47.23:832][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.07.14-16.47.23:875][  0]LogDerivedDataCache: Loaded boot cache 0.04s 97MB C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.07.14-16.47.23:875][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.07.14-16.47.23:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.14-16.47.23:887][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.07.14-16.47.23:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.14-16.47.23:887][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.07.14-16.47.23:898][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.07.14-16.47.23:898][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.14-16.47.23:898][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.07.14-16.47.23:904][  0]LogDerivedDataCache: Speed tests for C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.07.14-16.47.23:904][  0]LogDerivedDataCache: Display: Performance to C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1707.73MBs, RandomWriteSpeed=210.47MBs. Assigned SpeedClass 'Local'
+[2022.07.14-16.47.23:905][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.14-16.47.23:905][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.14-16.47.23:905][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.07.14-16.47.23:945][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.14-16.47.23:946][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.14-16.47.23:965][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.07.14-16.47.24:158][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.14-16.47.24:158][  0]LogInit: Active device profile: [0000027AEE73E200][0000027AEA410500 49] Windows
+[2022.07.14-16.47.24:159][  0]LogInit: Profiles: [0000027AEE73E200][0000027AEA410500 49] Windows, [0000027AEE6C6200][0000027AEC0C6680 49] WindowsNoEditor, [0000027AEE73CA00][0000027AEC0CA800 49] WindowsServer, [0000027AEE6C6300][0000027AEC0CE980 49] WindowsClient, [0000027AEE73C900][0000027AEC0D2B00 49] IOS, [0000027AEE73CC00][0000027AEC0D6C80 49] iPadAir, [0000027AEE6BC100][0000027AEC0DAE00 49] iPadAir2, [0000027AEE66DA00][0000027AEC0E30C0 49] IPadPro, [0000027AEE66DB00][0000027AEC0DF100 49] iPadAir3, [0000027AEE6BD000][0000027AEC0E7280 49] iPadAir4, [0000027AEE66C200][0000027AEC0EB400 49] iPadMini2, [0000027AEE6BF900][0000027AEDA1B580 49] iPadMini3, [0000027AEE66F600][0000027AEDA1F700 49] iPadMini4, [0000027AEE6BDF00][0000027AEA415840 49] iPadMini5, [0000027AEE6C7000][0000027AEDA27A80 49] iPhone6, [0000027AEE6C6F00][0000027AEDA23AC0 49] iPodTouch6, [0000027AEE66C300][0000027AEDA33D40 49] iPhone7, [0000027AEE66E900][0000027AEDA2A0C0 49] iPodTouch7, [0000027AEE6C4300][0000027AEDA36240 49] iPhone5S, [0000027AEE66D100][0000027AEDA3A3C0 49] iPhone6Plus, [0000027AEE6C6B00][0000027AEDA3E540 49] iPhone6S, [0000027AEE66CD00][0000027AEDA426C0 49] iPhone6SPlus, [0000027AEE6C7600][0000027AEDA46840 49] iPhone7Plus, [0000027AEE66D900][0000027AEDA4A9C0 49] iPhoneSE, [0000027AEE6C4600][0000027AEDA4EB40 49] iPhone8, [0000027AEE66E300][0000027AEDA52CC0 49] iPhone8Plus, [0000027AEE6C4E00][0000027AEDA56E40 49] iPhoneX, [0000027AEE66E000][0000027AEDA5AFC0 49] iPhoneXS, [0000027AEE6C5100][0000027AEDA5F140 49] iPhoneXSMax, [0000027AEE66F300][0000027AEDA632C0 49] iPhoneXR, [0000027AEE6C6D00][0000027AEDA67440 49] iPhone11, [0000027AEE66FA00][0000027AEDA6B5C0 49] iPhone11Pro, [0000027AEE6C4C00][0000027AEDA6F740 49] iPhone11ProMax, [0000027AEE66F100][0000027AEDA2F880 49] iPhoneSE2, [0000027AEE6C7C00][0000027AEDA739C0 49] iPhone12Mini, [0000027AEE66EE00][0000027AEDA77B00 49] iPhone12, [0000027AEE6C5700][0000027AEDA7BC40 49] iPhone12Pro, [0000027AEE66CF00][0000027AEDA82100 49] iPhone12ProMax, [0000027AEE6C4A00][0000027AEDA86280 49] iPadPro105, [0000027AEE66FE00][0000027AEDA8A400 49] iPadPro129, [0000027AEE6C5D00][0000027AEDA8E580 49] iPadPro97, [0000027AEE66F700][0000027AEDA92700 49] iPadPro2_129, [0000027AEE6C6000][0000027AEDA96880 49] iPad5, [0000027AEE66F500][0000027AEDA9AA00 49] iPad6, [0000027AEE6C6400][0000027AEEAB0B80 49] iPad7, [0000027AEE66CA00][0000027AEEAB4D00 49] iPad8, [0000027AEE6C7700][0000027AEEAB8E80 49] iPadPro11, [0000027AEE66C500][0000027AEEABD000 49] iPadPro2_11, [0000027AEE6C7E00][0000027AEEAC1180 49] iPadPro3_129, [0000027AEE66E600][0000027AEEAC5300 49] iPadPro4_129, [0000027AEE6C4B00][0000027AEEAC9480 49] AppleTV, [0000027AEE66DD00][0000027AEEACD600 49] AppleTV4K, [0000027AEE6C5C00][0000027AEEAD1780 49] TVOS, [0000027AEE66F000][0000027AEEAD5900 49] Mac, [0000027AEE6C7200][0000027AEDA7FA40 49] MacClient, [0000027AEE66E500][0000027AEEAD9B80 49] MacNoEditor, [0000027AEE6C4100][0000027AEEADDCC0 49] MacServer, [0000027AEE66D400][0000027AEEAE4180 49] Linux, [0000027AEE6C4800][0000027AEEAE8300 49] LinuxNoEditor, [0000027AEE66D700][0000027AEEAEC480 49] LinuxAArch64NoEditor, [0000027AEE6C5500][0000027AEEAF0600 49] LinuxClient, [0000027AEE66EA00][0000027AEEAF4780 49] LinuxAArch64Client, [0000027AEE6C7500][0000027AEEAF8900 49] LinuxServer, [0000027AEE66CC00][0000027AEEAFCA80 49] LinuxAArch64Server, [0000027AEE6C5E00][0000027AEEB00C00 49] Android, [0000027AEE66D800][0000027AEEB04D80 49] Android_Low, [0000027AEE6C7B00][0000027AEEB08F00 49] Android_Mid, [0000027AEE66C700][0000027AEEB0D080 49] Android_High, [0000027AEE6C5600][0000027AEEB11200 49] Android_Default, [0000027AEE66D000][0000027AEEB15380 49] Android_Adreno4xx, [0000027AEE6BFE00][0000027AEEB19500 49] Android_Adreno5xx_Low, [0000027AEE73D600][0000027AEEB1D680 49] Android_Adreno5xx, [0000027AEE6BCE00][0000027AEEB21800 49] Android_Adreno6xx, [0000027AEE73DD00][0000027AEEB25980 49] Android_Adreno6xx_Vulkan, [0000027AEE6BE600][0000027AEEAE1AC0 49] Android_Mali_T6xx, [0000027AEE73D100][0000027AEEB29C00 49] Android_Mali_T7xx, [0000027AEE6BF100][0000027AEEB2DD40 49] Android_Mali_T8xx, [0000027AEE73E100][0000027AEEB301C0 49] Android_Mali_G71, [0000027AEE6BD100][0000027AEEB38340 49] Android_Mali_G72, [0000027AEE73E400][0000027AEEB3C4C0 49] Android_Mali_G72_Vulkan, [0000027AEE6BC400][0000027AEEB40640 49] Android_Mali_G76, [0000027AEE73D200][0000027AEEB447C0 49] Android_Mali_G76_Vulkan, [0000027AEE6BFA00][0000027AEEB48940 49] Android_Mali_G77, [0000027AEE73C700][0000027AEEB4CAC0 49] Android_Mali_G77_Vulkan, [0000027AEE6BCB00][0000027AEEB50C40 49] Android_Vulkan_SM5, [0000027AEE73D300][0000027AEEB54DC0 49] Android_PowerVR_G6xxx, [0000027AEE6BE700][0000027AEEB58F40 49] Android_PowerVR_GT7xxx, [0000027AEE73CD00][0000027AEEB5D0C0 49] Android_PowerVR_GE8xxx, [0000027AEE6BD900][0000027AEEB61240 49] Android_PowerVR_GM9xxx, [0000027AEE73C100][0000027AEEB653C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000027AEE6BE300][0000027AEEB69540 49] Android_TegraK1, [0000027AEE73D700][0000027AEEB6D6C0 49] Android_Unknown_Vulkan, [0000027AEE6BE400][0000027AEEB71840 49] Lumin, [0000027AEE73E700][0000027AEEB759C0 49] Lumin_Desktop, [0000027AEE66F800][0000027AEEB35B00 49] HoloLens, 
+[2022.07.14-16.47.24:312][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.14-16.47.24:312][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.14-16.47.24:312][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.14-16.47.24:312][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.14-16.47.24:312][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.14-16.47.24:334][  0]LogNetVersion: FFBlazeTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3125185729)
+[2022.07.14-16.47.24:693][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.07.14-16.47.26:918][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 2.224908 seconds
+[2022.07.14-16.47.26:924][  0]LogUObjectArray: 17491 objects as part of root set at end of initial load.
+[2022.07.14-16.47.26:924][  0]LogUObjectAllocator: 4476048 out of 0 bytes used by permanent object pool.
+[2022.07.14-16.47.26:924][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.14-16.47.27:294][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.14-16.47.27:298][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.14-16.47.27:340][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.07.14-16.47.27:340][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2022.07.14-16.47.27:340][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2022.07.14-16.47.27:529][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.14-16.47.27:539][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.14-16.47.27:539][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.14-16.47.27:706][  0]SourceControl: Source control is disabled
+[2022.07.14-16.47.27:706][  0]SourceControl: Source control is disabled
+[2022.07.14-16.47.27:709][  0]SourceControl: Source control is disabled
+[2022.07.14-16.47.27:713][  0]SourceControl: Source control is disabled
+[2022.07.14-16.47.27:717][  0]LogUProjectInfo: Found projects:
+[2022.07.14-16.47.28:768][  0]LogCollectionManager: Loaded 0 collections in 0.032230 seconds
+[2022.07.14-16.47.28:786][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Collections/' took 0.00s
+[2022.07.14-16.47.28:786][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/Developers/WTS/Collections/' took 0.00s
+[2022.07.14-16.47.28:786][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/Collections/' took 0.00s
+[2022.07.14-16.47.28:786][  0]LogOcInput: OculusInput pre-init called
+[2022.07.14-16.47.28:793][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.07.14-16.47.28:793][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.07.14-16.47.28:838][  0]LogEngine: Initializing Engine...
+[2022.07.14-16.47.28:844][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.14-16.47.28:844][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.07.14-16.47.28:845][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.14-16.47.28:939][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.14-16.47.28:949][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.14-16.47.28:959][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.14-16.47.28:962][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.14-16.47.28:962][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.14-16.47.28:962][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.14-16.47.28:962][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.14-16.47.28:962][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.14-16.47.28:969][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.14-16.47.28:969][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.07.14-16.47.29:013][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.07.14-16.47.29:014][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.14-16.47.29:015][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.14-16.47.29:015][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.14-16.47.29:016][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.14-16.47.29:016][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.14-16.47.29:016][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.14-16.47.29:016][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.14-16.47.29:016][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.14-16.47.29:016][  0]LogInit: FAudioDevice initialized.
+[2022.07.14-16.47.29:017][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.14-16.47.29:017][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.14-16.47.29:070][  0]LogDerivedDataCache: Saved boot cache 0.05s 97MB C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.07.14-16.47.29:072][  0]LogInit: Texture streaming: Enabled
+[2022.07.14-16.47.29:082][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2022.07.14-16.47.29:084][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.14-16.47.29:084][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.07.14-16.47.29:086][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.07.14-16.47.30:167][  0]LogInit: Transaction tracking system initialized
+[2022.07.14-16.47.30:182][  0]BlueprintLog: New page: Editor Load
+[2022.07.14-16.47.30:230][  0]LocalizationService: Localization service is disabled
+[2022.07.14-16.47.30:334][  0]TimingProfiler: Initialize
+[2022.07.14-16.47.30:334][  0]TimingProfiler: OnSessionChanged
+[2022.07.14-16.47.30:334][  0]LoadingProfiler: Initialize
+[2022.07.14-16.47.30:334][  0]LoadingProfiler: OnSessionChanged
+[2022.07.14-16.47.30:334][  0]NetworkingProfiler: Initialize
+[2022.07.14-16.47.30:334][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.14-16.47.30:334][  0]MemoryProfiler: Initialize
+[2022.07.14-16.47.30:334][  0]MemoryProfiler: OnSessionChanged
+[2022.07.14-16.47.30:337][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.07.14-16.47.30:337][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.07.14-16.47.30:728][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.07.14-16.47.30:728][  0]LogCook: Display: Mobile HDR setting 1
+[2022.07.14-16.47.30:984][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.14-16.47.30:986][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.103
+[2022.07.14-16.47.30:986][  0]Cmd: MAP LOAD FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Levels/L_FirstLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.14-16.47.31:061][  0]LightingResults: New page: Lighting Build
+[2022.07.14-16.47.31:061][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-16.47.31:061][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-16.47.31:062][  0]MapCheck: New page: Map Check
+[2022.07.14-16.47.31:062][  0]LightingResults: New page: Lighting Build
+[2022.07.14-16.47.31:070][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.07.14-16.47.33:499][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/' took 2.63s
+[2022.07.14-16.47.52:614][  0]LogAnimMontage: Warning: [AssetLog] F:\Co-op\MoonRift\FFBlaze\FFBlazeGame\FFBlazeTest\Content\FFBLAZE\NewBlaze\Attack\ArticSplit.uasset: Branching Point 'AN_SpawnProjectile_C' overlaps with 'AN_SpawnProjectile_C' at time: 0.047720. One of them will not get triggered!
+[2022.07.14-16.47.52:796][  0]LogAnimMontage: Warning: [AssetLog] F:\Co-op\MoonRift\FFBlaze\FFBlazeGame\FFBlazeTest\Content\FFBLAZE\NewBlaze\Water\IceBreaker_Montage.uasset: Branching Point 'AN_SpawnProjectile_C' overlaps with 'AN_SpawnProjectile_C' at time: 1.127810. One of them will not get triggered!
+[2022.07.14-16.47.53:494][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_FirstLevel'.
+[2022.07.14-16.47.53:495][  0]LogAIModule: Creating AISystem for world L_FirstLevel
+[2022.07.14-16.47.53:589][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.14-16.47.53:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.07.14-16.47.53:673][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.14-16.47.53:674][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.07.14-16.47.53:674][  0]LogFileHelpers: Loading map 'L_FirstLevel' took 22.687
+[2022.07.14-16.47.53:675][  0]LogUnrealEdMisc: Total Editor Startup Time, took 32.791
+[2022.07.14-16.47.55:209][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.14-16.47.55:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.14-16.47.55:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.14-16.47.55:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.14-16.47.55:256][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3658 classes and 871 folders.
+[2022.07.14-16.47.55:263][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.07.14-16.47.55:277][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.14-16.47.55:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.14-16.47.55:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.07.14-16.47.55:285][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.14-16.47.55:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.14-16.47.55:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.07.14-16.47.55:289][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.07.14-16.47.55:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.07.14-16.47.55:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.07.14-16.47.55:294][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.14-16.47.55:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.14-16.47.55:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.07.14-16.47.55:299][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.14-16.47.55:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.14-16.47.55:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.07.14-16.47.55:303][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.14-16.47.55:303][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.14-16.47.55:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.07.14-16.47.55:307][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.14-16.47.55:307][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:307][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.14-16.47.55:307][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.07.14-16.47.55:312][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.14-16.47.55:312][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:312][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.14-16.47.55:313][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.07.14-16.47.55:319][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.14-16.47.55:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.14-16.47.55:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.07.14-16.47.55:324][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.14-16.47.55:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.14-16.47.55:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.07.14-16.47.55:328][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.14-16.47.55:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.14-16.47.55:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.07.14-16.47.55:333][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.14-16.47.55:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.14-16.47.55:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.07.14-16.47.55:338][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.14-16.47.55:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.14-16.47.55:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.07.14-16.47.55:342][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.14-16.47.55:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.14-16.47.55:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.07.14-16.47.55:346][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.14-16.47.55:346][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:346][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.14-16.47.55:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.07.14-16.47.55:351][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.14-16.47.55:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.14-16.47.55:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.07.14-16.47.55:355][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.14-16.47.55:355][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:355][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.14-16.47.55:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.07.14-16.47.55:360][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.14-16.47.55:360][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:360][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.14-16.47.55:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.07.14-16.47.55:364][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.14-16.47.55:364][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:364][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.14-16.47.55:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.07.14-16.47.55:371][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.14-16.47.55:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.14-16.47.55:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.07.14-16.47.55:375][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.14-16.47.55:375][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:375][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.14-16.47.55:375][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.07.14-16.47.55:380][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.14-16.47.55:380][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:380][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.14-16.47.55:380][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.07.14-16.47.55:384][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.07.14-16.47.55:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.07.14-16.47.55:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.07.14-16.47.55:389][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.14-16.47.55:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.14-16.47.55:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.07.14-16.47.55:394][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.14-16.47.55:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.14-16.47.55:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.07.14-16.47.55:398][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.14-16.47.55:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.14-16.47.55:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.14-16.47.55:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.07.14-16.47.55:618][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.07.14-16.47.55:623][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.07.14-16.47.55:971][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.14-16.47.55:971][  0]LogLoad: (Engine Initialization) Total time: 35.09 seconds
+[2022.07.14-16.47.55:971][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.14-16.47.55:971][  0]LogInit: First time updating LLM stats...
+[2022.07.14-16.47.56:109][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.14-16.47.56:110][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.14-16.47.56:112][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.14-16.47.56:120][  0]LogSlate: Took 0.004881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.14-16.47.56:655][  0]LogRenderer: Reallocating scene render targets to support 904x312 Format 10 NumSamples 1 (Frame:1).
+[2022.07.14-16.47.56:655][  0]LogSlate: Took 0.011722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.14-16.47.57:017][  1]LogAssetRegistry: Asset discovery search completed in 33.0521 seconds
+[2022.07.14-16.47.57:019][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2022.07.14-16.47.57:463][  3]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.14-16.48.02:051][ 73]LogFileCache: Retrieving MD5 hashes for directory 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/' took 6.06s
+[2022.07.14-16.48.41:285][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FFBLAZE/Enemy/EnemyEmber/BP_EmberAI.BP_EmberAI
+[2022.07.14-16.48.41:772][631]LogLinker: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.14-16.48.41:772][631]LogLinker: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.14-16.48.41:772][631]LogLinker: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.14-16.48.42:406][631]LogLinker: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.14-16.48.42:406][631]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2022.07.14-16.48.42:408][631]LogLinker: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2022.07.14-16.48.42:408][631]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2022.07.14-16.48.42:451][631]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.07.14-16.48.42:455][631]LogMaterial: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.07.14-16.48.42:455][631]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.07.14-16.48.42:456][631]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2022.07.14-16.48.42:457][631]LogMaterial: Warning: [AssetLog] E:\Unreal\Program\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2022.07.14-16.48.42:457][631]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.07.14-16.48.42:561][631]LogBlueprintEditor: Perf: 1.2 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.07.14-16.48.42:561][631]LogBlueprintEditor: Perf: 1.1 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.07.14-16.48.43:045][631]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.07.14-16.48.43:946][631]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.14-16.48.44:163][632]LogSlate: Took 0.003919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.14-16.49.03:271][726]LogSlate: Window 'BP_EmberAI' being destroyed
+[2022.07.14-16.49.03:287][726]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-16.49.03:287][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-16.53.24:409][248]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Co-op\MoonRift\FFBlaze\hotblade.fbx)
+[2022.07.14-16.53.24:448][248]LogFbx: Loading FBX Scene from F:\Co-op\MoonRift\FFBlaze\hotblade.fbx
+[2022.07.14-16.53.24:604][248]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.14-16.53.47:093][248]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.07.14-16.53.47:134][248]LogFbx: Warning: Not valid bind pose for Pose (Cube.013) - Node HotBlade : The relative matrices do not match
+[2022.07.14-16.53.47:134][248]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.07.14-16.53.47:135][248]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - HotBlade
+[2022.07.14-16.53.47:135][248]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.07.14-16.53.47:273][248]LogFbx: Triangulating skeletal mesh HotBlade
+[2022.07.14-16.53.47:449][248]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2022.07.14-16.53.47:676][248]LogSkeletalMesh: Section 0: Material=0, 5635 triangles
+[2022.07.14-16.53.47:676][248]LogSkeletalMesh: Section 1: Material=1, 5536 triangles
+[2022.07.14-16.53.47:684][248]LogSkeletalMesh: Building Skeletal Mesh hotblade...
+[2022.07.14-16.53.47:886][248]LogSkeletalMesh: Section 0: Material=0, 5635 triangles
+[2022.07.14-16.53.47:886][248]LogSkeletalMesh: Section 1: Material=1, 5536 triangles
+[2022.07.14-16.53.47:901][248]LogSkeletalMesh: Built Skeletal Mesh [0.22s] /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade.hotblade
+[2022.07.14-16.53.47:916][248]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-16.53.47:916][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:922][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:923][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:925][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:927][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:928][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:929][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:930][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:931][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:932][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:934][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:936][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.47:938][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.47:939][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.47:975][248]LogFbx: Parsing AnimStack root|Idle.-Sword
+[2022.07.14-16.53.48:148][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_-Sword.hotblade_Anim_root_Idle_-Sword
+[2022.07.14-16.53.48:148][248]LogFbx: Parsing AnimStack root|Idle.Weaksword
+[2022.07.14-16.53.48:343][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_Weaksword.hotblade_Anim_root_Idle_Weaksword
+[2022.07.14-16.53.48:343][248]LogFbx: Parsing AnimStack root|SwordAttack
+[2022.07.14-16.53.48:564][248]LogFbx: Parsing AnimStack root|SwordCharge
+[2022.07.14-16.53.48:713][248]LogFbx: Parsing AnimStack root|Swordhightime
+[2022.07.14-16.53.48:863][248]LogFbx: Parsing AnimStack root|SwordStab
+[2022.07.14-16.53.49:107][248]LogFbx: Parsing AnimStack root|WalkForward.-Sword
+[2022.07.14-16.53.49:255][248]LogFbx: Parsing AnimStack root|WalkLeft-Sword
+[2022.07.14-16.53.49:403][248]LogFbx: Parsing AnimStack root|WalkRight-Sword
+[2022.07.14-16.53.49:824][248]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 F:\Co-op\MoonRift\FFBlaze\hotgun.fbx)
+[2022.07.14-16.53.49:847][248]LogFbx: Loading FBX Scene from F:\Co-op\MoonRift\FFBlaze\hotgun.fbx
+[2022.07.14-16.53.49:950][248]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.14-16.53.54:130][248]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.07.14-16.53.54:230][248]LogFbx: Warning: Not valid bind pose for Pose (Cube.038) - Node HotGun : The relative matrices do not match
+[2022.07.14-16.53.54:230][248]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.07.14-16.53.54:231][248]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - HotGun
+[2022.07.14-16.53.54:231][248]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.07.14-16.53.54:233][248]LogFbx: Triangulating skeletal mesh HotGun
+[2022.07.14-16.53.54:463][248]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2022.07.14-16.53.54:778][248]LogSkeletalMesh: Section 0: Material=0, 7895 triangles
+[2022.07.14-16.53.54:778][248]LogSkeletalMesh: Section 1: Material=1, 7872 triangles
+[2022.07.14-16.53.54:784][248]LogSkeletalMesh: Building Skeletal Mesh hotgun...
+[2022.07.14-16.53.55:065][248]LogSkeletalMesh: Section 0: Material=0, 7895 triangles
+[2022.07.14-16.53.55:065][248]LogSkeletalMesh: Section 1: Material=1, 7872 triangles
+[2022.07.14-16.53.55:085][248]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun.hotgun
+[2022.07.14-16.53.55:101][248]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-16.53.55:101][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.55:106][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.55:107][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.55:108][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.55:109][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.55:110][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.55:112][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.55:113][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.55:114][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(0) root
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(1) pelvis
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(2) spine_01
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(3) spine_02
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(4) spine_03
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(5) clavicle_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(6) upperarm_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(7) c_upperarm_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(8) lowerarm_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(9) c_lowerarm_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(10) hand_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(11) index_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(12) index_02_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(13) index_03_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(14) middle_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(15) middle_02_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(16) middle_03_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(17) thumb_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(18) thumb_02_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(19) thumb_03_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(20) lowerarm_twist_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(21) upperarm_twist_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(22) clavicle_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(23) upperarm_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(24) c_upperarm_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(25) lowerarm_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(26) c_lowerarm_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(27) hand_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(28) index_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(29) index_02_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(30) index_03_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(31) middle_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(32) middle_02_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(33) middle_03_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(34) thumb_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(35) thumb_02_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(36) thumb_03_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(37) lowerarm_twist_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(38) upperarm_twist_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(39) neck_01
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(40) head
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(41) thigh_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(42) c_thigh_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(43) calf_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(44) c_calf_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(45) calf_twist_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(46) foot_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(47) ball_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(48) thigh_twist_01_l
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(49) thigh_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(50) c_thigh_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(51) calf_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(52) c_calf_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(53) calf_twist_01_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(54) foot_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(55) ball_r
+[2022.07.14-16.53.55:115][248]LogFbx: SortedLinks :(56) thigh_twist_01_r
+[2022.07.14-16.53.55:133][248]LogFbx: Parsing AnimStack root|AttackGun
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkRight-Sword.hotblade_Anim_root_WalkRight-Sword
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkLeft-Sword.hotblade_Anim_root_WalkLeft-Sword
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkForward_-Sword.hotblade_Anim_root_WalkForward_-Sword
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordStab.hotblade_Anim_root_SwordStab
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_AttackGun.hotgun_Anim_root_AttackGun
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordAttack.hotblade_Anim_root_SwordAttack
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.hotblade_Anim_root_SwordCharge
+[2022.07.14-16.53.55:304][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Swordhightime.hotblade_Anim_root_Swordhightime
+[2022.07.14-16.53.55:304][248]LogFbx: Parsing AnimStack root|ChargeGun
+[2022.07.14-16.53.55:536][248]LogFbx: Parsing AnimStack root|GunDive
+[2022.07.14-16.53.55:721][248]LogFbx: Parsing AnimStack root|GunFlip
+[2022.07.14-16.53.55:898][248]LogFbx: Parsing AnimStack root|Idle-Gun
+[2022.07.14-16.53.56:068][248]LogFbx: Parsing AnimStack root|Idle.WeakGun
+[2022.07.14-16.53.56:353][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_Idle_WeakGun.hotgun_Anim_root_Idle_WeakGun
+[2022.07.14-16.53.56:353][249]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_Idle-Gun.hotgun_Anim_root_Idle-Gun
+[2022.07.14-16.53.56:371][250]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_GunFlip.hotgun_Anim_root_GunFlip
+[2022.07.14-16.53.56:397][251]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_GunDive.hotgun_Anim_root_GunDive
+[2022.07.14-16.53.56:556][252]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_ChargeGun.hotgun_Anim_root_ChargeGun
+[2022.07.14-16.53.59:446][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.07.14-16.53.59:451][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Levels/L_FirstLevel' took 0.033
+[2022.07.14-16.53.59:451][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade] ([1] browsable assets)...
+[2022.07.14-16.53.59:469][390]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade.hotblade]
+[2022.07.14-16.53.59:469][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade]
+[2022.07.14-16.54.00:261][390]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Auto1096BD7704EF0F13B131925BBE5072517.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Auto1.uasset'
+[2022.07.14-16.54.00:264][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_PhysicsAsset] ([1] browsable assets)...
+[2022.07.14-16.54.00:275][390]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_PhysicsAsset.hotblade_PhysicsAsset]
+[2022.07.14-16.54.00:275][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_PhysicsAsset]
+[2022.07.14-16.54.00:333][390]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_PhysicsAsset_Auto18EE2C2E4480E27737D63D1B63E28A76B.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_PhysicsAsset_Auto1.uasset'
+[2022.07.14-16.54.00:335][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun] ([1] browsable assets)...
+[2022.07.14-16.54.00:346][390]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun.hotgun]
+[2022.07.14-16.54.00:346][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun]
+[2022.07.14-16.54.00:546][390]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Auto146BD4A684B2FF983E6192FBDC34C6912.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Auto1.uasset'
+[2022.07.14-16.54.00:547][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_PhysicsAsset] ([1] browsable assets)...
+[2022.07.14-16.54.00:556][390]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_PhysicsAsset.hotgun_PhysicsAsset]
+[2022.07.14-16.54.00:556][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_PhysicsAsset]
+[2022.07.14-16.54.00:576][390]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_PhysicsAsset_Auto1A79AE0DB49A3B0217FB1159CD24CF173.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_PhysicsAsset_Auto1.uasset'
+[2022.07.14-16.54.00:577][390]LogFileHelpers: Auto-saving content packages took 1.126
+[2022.07.14-16.54.26:867][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.07.14-16.54.27:053][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Anim_root_Idle_WeakGun7F194C2042A619901B78159D7C2CD54A.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_Idle_WeakGun.uasset'
+[2022.07.14-16.54.27:341][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade.uasset" SILENT=true
+[2022.07.14-16.54.27:379][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade893E21BB45CCBB3A923801BCB4575BA9.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade.uasset'
+[2022.07.14-16.54.27:724][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_PhysicsAsset981780E7468F6EA4FAB9E1A91FE520F1.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_PhysicsAsset.uasset'
+[2022.07.14-16.54.28:072][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_Idle_-SwordC25E074742F3A884955F5E8CEF3323A0.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_-Sword.uasset'
+[2022.07.14-16.54.28:312][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_Idle_WeaksworF61AEC1E447424F2CC46F29BEEBD04CA.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_Weaksword.uasset'
+[2022.07.14-16.54.28:609][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_SwordAttack77D4E5994775461D2480C0819610DA30.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordAttack.uasset'
+[2022.07.14-16.54.28:907][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_SwordCharge7F1E3A104D13414DD1EE1092BFACDEEC.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.uasset'
+[2022.07.14-16.54.29:165][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_Swordhightime35CA9A3E4B92BCE463D50989981C6305.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Swordhightime.uasset'
+[2022.07.14-16.54.29:477][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_SwordStab7598D0C24F1F145BE17BCD8039BBE8C0.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordStab.uasset'
+[2022.07.14-16.54.29:846][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_WalkForward_-D87DF2774BA862633B7A8AABB27277DD.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkForward_-Sword.uasset'
+[2022.07.14-16.54.30:124][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_WalkLeft-Swor1C6C5E614D60CB5542E432BF7E350064.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkLeft-Sword.uasset'
+[2022.07.14-16.54.30:390][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_WalkRight-Swo61FDCE214526397967BF6CB5EC1807A0.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkRight-Sword.uasset'
+[2022.07.14-16.54.30:690][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun.uasset" SILENT=true
+[2022.07.14-16.54.30:750][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun668FCCD04E1663D05E823C9CDFDB379E.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun.uasset'
+[2022.07.14-16.54.31:105][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_PhysicsAssetE3B91DAF47497025916DCDBD63884FCC.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_PhysicsAsset.uasset'
+[2022.07.14-16.54.31:369][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Anim_root_AttackGunF6E8074E440E18C4497623A0F736D049.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_AttackGun.uasset'
+[2022.07.14-16.54.31:620][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Anim_root_ChargeGun875908094AAF25A88500F9ACF2819E5E.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_ChargeGun.uasset'
+[2022.07.14-16.54.31:922][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Anim_root_GunDive2874D1E44648A49CC8D7648C7D09BD0F.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_GunDive.uasset'
+[2022.07.14-16.54.32:221][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Anim_root_GunFlipCFE3B0004BE02966CF2578A74C933FC8.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_GunFlip.uasset'
+[2022.07.14-16.54.32:534][818]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Anim_root_Idle-GunD5E7542C4290DCCC240FC4BC1FF56095.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_Idle-Gun.uasset'
+[2022.07.14-16.54.32:785][818]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade.hotblade
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating PhysicsAsset /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_PhysicsAsset.hotblade_PhysicsAsset
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_-Sword.hotblade_Anim_root_Idle_-Sword
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_Weaksword.hotblade_Anim_root_Idle_Weaksword
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordAttack.hotblade_Anim_root_SwordAttack
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.hotblade_Anim_root_SwordCharge
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Swordhightime.hotblade_Anim_root_Swordhightime
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordStab.hotblade_Anim_root_SwordStab
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkForward_-Sword.hotblade_Anim_root_WalkForward_-Sword
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkLeft-Sword.hotblade_Anim_root_WalkLeft-Sword
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_WalkRight-Sword.hotblade_Anim_root_WalkRight-Sword
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun.hotgun
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating PhysicsAsset /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_PhysicsAsset.hotgun_PhysicsAsset
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_AttackGun.hotgun_Anim_root_AttackGun
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_ChargeGun.hotgun_Anim_root_ChargeGun
+[2022.07.14-16.54.32:785][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_GunDive.hotgun_Anim_root_GunDive
+[2022.07.14-16.54.32:786][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_GunFlip.hotgun_Anim_root_GunFlip
+[2022.07.14-16.54.32:786][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_Idle-Gun.hotgun_Anim_root_Idle-Gun
+[2022.07.14-16.54.32:786][818]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Anim_root_Idle_WeakGun.hotgun_Anim_root_Idle_WeakGun
+[2022.07.14-16.57.03:388][367]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade.hotblade
+[2022.07.14-16.57.03:424][367]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.07.14-16.57.03:628][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.14-16.57.03:634][367]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.07.14-16.57.04:462][368]LogRenderer: Reallocating scene render targets to support 904x724 Format 10 NumSamples 1 (Frame:1).
+[2022.07.14-16.57.09:440][590]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials: 'E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.57.12:868][721]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials: 'E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.57.12:868][721]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.57.12:868][721]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Inst.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Inst.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.57.26:420][494]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials: 'E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.58.42:981][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/hotblade" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade.uasset" SILENT=true
+[2022.07.14-16.58.43:355][596]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotbladeA90AD9CC4A17B0D50ACD1390D998DE31.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade.uasset'
+[2022.07.14-16.58.43:371][596]AssetCheck: New page: Asset Save: hotblade
+[2022.07.14-16.58.43:371][596]LogContentValidation: Display: Validating SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade.hotblade
+[2022.07.14-16.58.50:470][947]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun.hotgun
+[2022.07.14-16.58.50:482][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.14-16.59.01:420][606]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials: 'E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.59.24:554][961]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials: 'E:/Unreal/Program/UE_4.26/Engine/Content/EngineMaterials' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.59.24:554][961]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-16.59.24:554][961]SourceControl: fatal: E:/Unreal/Program/UE_4.26/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_1sided.uasset: 'E:/Unreal/Program/UE_4.26/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Masked_Master_1sided.uasset' is outside repository at 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame'
+[2022.07.14-17.00.18:007][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun.uasset" SILENT=true
+[2022.07.14-17.00.19:083][978]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgunDF4CC7C34309ADC9362257B98BB75650.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotgun.uasset'
+[2022.07.14-17.00.19:108][978]AssetCheck: New page: Asset Save: hotgun
+[2022.07.14-17.00.19:108][978]LogContentValidation: Display: Validating SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun.hotgun
+[2022.07.14-17.03.35:863][323]LogSlate: Window 'hotgun' being destroyed
+[2022.07.14-17.03.35:867][323]LogSlate: Window 'hotgun' being destroyed
+[2022.07.14-17.03.35:872][323]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.03.35:872][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.03.36:399][323]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.03.36:399][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.03.45:661][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/Strafe_2" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Strafe_2.uasset" SILENT=true
+[2022.07.14-17.03.45:973][834]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Strafe_275189C3C4A6407A0A62726BD16F9CCDB.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Strafe_2.uasset'
+[2022.07.14-17.03.46:248][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/StrafeWeak_2" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/StrafeWeak_2.uasset" SILENT=true
+[2022.07.14-17.03.46:257][834]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/StrafeWeak_28BFFE8E84604D6956EDDFBA3159531FC.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/StrafeWeak_2.uasset'
+[2022.07.14-17.03.46:580][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/Walk_2" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Walk_2.uasset" SILENT=true
+[2022.07.14-17.03.46:587][834]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Walk_2091426454521AF06055436AEDC2EA4A8.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Walk_2.uasset'
+[2022.07.14-17.03.46:871][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/WalkWeak_2" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/WalkWeak_2.uasset" SILENT=true
+[2022.07.14-17.03.46:878][834]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/WalkWeak_261C1A8A04CC3F2A4FF5A4993C279AAD2.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/WalkWeak_2.uasset'
+[2022.07.14-17.03.47:217][834]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.14-17.03.47:217][834]LogContentValidation: Display: Validating BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe_2.Strafe_2
+[2022.07.14-17.03.47:217][834]LogContentValidation: Display: Validating BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/StrafeWeak_2.StrafeWeak_2
+[2022.07.14-17.03.47:217][834]LogContentValidation: Display: Validating BlendSpace1D /Game/FFBLAZE/Enemy/EnemyHotheads/Walk_2.Walk_2
+[2022.07.14-17.03.47:217][834]LogContentValidation: Display: Validating BlendSpace1D /Game/FFBLAZE/Enemy/EnemyHotheads/WalkWeak_2.WalkWeak_2
+[2022.07.14-17.03.49:936][941]Cmd: TRANSACTION UNDO
+[2022.07.14-17.03.49:936][941]LogEditorTransaction: Undo Persona editor: material changed
+[2022.07.14-17.03.54:416][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.07.14-17.03.55:940][116]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.14-17.03.56:132][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.07.14-17.03.56:144][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.07.14-17.03.56:155][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.07.14-17.03.56:167][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.07.14-17.03.56:188][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.07.14-17.03.56:202][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.07.14-17.03.56:976][116]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/StrafeWeak_2.uasset'
+[2022.07.14-17.03.56:976][116]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Strafe_2.uasset'
+[2022.07.14-17.03.56:976][116]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/WalkWeak_2.uasset'
+[2022.07.14-17.03.56:976][116]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Walk_2.uasset'
+[2022.07.14-17.04.09:205][970]LogContentBrowser: Deferred new asset file creation: hotclaw_Skeleton_BlendSpace
+[2022.07.14-17.04.09:229][970]LogContentBrowser: Creating deferred item: hotclaw_Skeleton_BlendSpace
+[2022.07.14-17.04.20:474][827]LogContentBrowser: Attempting asset rename: hotclaw_Skeleton_BlendSpace -> hotclaw_Skeleton_BlendSpace
+[2022.07.14-17.04.20:549][827]LogContentBrowser: End creating deferred item hotclaw_Skeleton_BlendSpace
+[2022.07.14-17.04.39:766][788]LogContentBrowser: Attempting asset rename: hotclaw_Skeleton_BlendSpace -> Walk-Sword
+[2022.07.14-17.04.40:652][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/Walk-Sword" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Walk-Sword.uasset" SILENT=true
+[2022.07.14-17.04.40:658][788]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Walk-SwordF9BB26A24D4A0784F25E098E057BF93F.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Walk-Sword.uasset'
+[2022.07.14-17.04.40:997][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.07.14-17.04.41:020][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.07.14-17.04.41:032][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.14-17.04.41:144][788]AssetCheck: New page: Asset Save: Walk-Sword
+[2022.07.14-17.04.41:144][788]LogContentValidation: Display: Validating BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Walk-Sword.Walk-Sword
+[2022.07.14-17.04.48:155][237]LogContentBrowser: Deferred new asset file creation: Walk-Sword1
+[2022.07.14-17.04.48:206][237]LogContentBrowser: Creating deferred item: Walk-Sword1
+[2022.07.14-17.04.54:122][603]LogContentBrowser: Attempting asset rename: Walk-Sword1 -> WalkWealk-Sword1
+[2022.07.14-17.04.54:385][603]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/WalkWealk-Sword1ED48DD374280923B7A5C81BAED25F379.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/WalkWealk-Sword1.uasset'
+[2022.07.14-17.04.54:729][603]LogContentBrowser: End creating deferred item Walk-Sword1
+[2022.07.14-17.04.54:734][603]AssetCheck: New page: Asset Save: WalkWealk-Sword1
+[2022.07.14-17.04.54:734][603]LogContentValidation: Display: Validating BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/WalkWealk-Sword1.WalkWealk-Sword1
+[2022.07.14-17.05.21:923][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.07.14-17.05.21:927][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Levels/L_FirstLevel' took 0.017
+[2022.07.14-17.05.21:927][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun] ([1] browsable assets)...
+[2022.07.14-17.05.21:948][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FFBLAZE/Enemy/EnemyHotheads/hotgun.hotgun]
+[2022.07.14-17.05.21:948][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun]
+[2022.07.14-17.05.22:083][874]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotgun_Auto2D7C97C6C435A35D868F6BCA87AE6736C.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Enemy/EnemyHotheads/hotgun_Auto2.uasset'
+[2022.07.14-17.05.22:130][874]LogFileHelpers: Auto-saving content packages took 0.203
+[2022.07.14-17.08.06:400][597]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Walk-Sword.Walk-Sword
+[2022.07.14-17.08.06:442][597]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.07.14-17.08.07:521][597]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.07.14-17.08.29:293][114]LogContentBrowser: Attempting asset rename: Walk-Sword -> Strafe-Sword
+[2022.07.14-17.08.30:182][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword" FILE="F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword.uasset" SILENT=true
+[2022.07.14-17.08.30:188][114]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Strafe-SwordA867F2BB4B06D031E107A395C119BDC8.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword.uasset'
+[2022.07.14-17.08.30:715][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.07.14-17.08.30:756][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.14-17.08.30:767][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.14-17.08.30:929][114]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/Walk-Sword.uasset'
+[2022.07.14-17.08.31:151][114]AssetCheck: New page: Asset Save: Strafe-Sword
+[2022.07.14-17.08.31:151][114]LogContentValidation: Display: Validating BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword.Strafe-Sword
+[2022.07.14-17.08.43:910][ 19]LogContentBrowser: Attempting asset rename: WalkWealk-Sword1 -> StrafeWealk-Sword1
+[2022.07.14-17.08.44:590][ 19]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/StrafeWealk-Sword1CE74B40347567796EBAFC7A0C5CF1A5C.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/StrafeWealk-Sword1.uasset'
+[2022.07.14-17.08.45:044][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.07.14-17.08.45:062][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.07.14-17.08.45:073][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.14-17.08.45:230][ 19]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/WalkWealk-Sword1.uasset'
+[2022.07.14-17.08.45:451][ 19]AssetCheck: New page: Asset Save: StrafeWealk-Sword1
+[2022.07.14-17.08.45:452][ 19]LogContentValidation: Display: Validating BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/StrafeWealk-Sword1.StrafeWealk-Sword1
+[2022.07.14-17.09.05:073][135]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe.Strafe
+[2022.07.14-17.09.12:659][503]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword.Strafe-Sword
+[2022.07.14-17.09.27:596][367]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe.Strafe
+[2022.07.14-17.09.35:881][802]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword.Strafe-Sword
+[2022.07.14-17.10.17:108][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.07.14-17.10.19:039][647]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.14-17.10.19:078][647]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FFBLAZE/Enemy/EnemyHotheads/StrafeWealk-Sword1.StrafeWealk-Sword1
+[2022.07.14-17.10.22:623][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.07.14-17.10.22:639][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.07.14-17.10.22:650][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.14-17.10.23:643][647]SourceControl: rm 'FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/StrafeWealk-Sword1.uasset'
+[2022.07.14-17.10.52:242][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.07.14-17.10.52:248][999]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FFBLAZE/Levels/L_FirstLevel' took 0.019
+[2022.07.14-17.10.52:248][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword] ([1] browsable assets)...
+[2022.07.14-17.10.52:267][999]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword.Strafe-Sword]
+[2022.07.14-17.10.52:267][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword]
+[2022.07.14-17.10.52:376][999]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Strafe-Sword_Auto3CF07F7494C07E6DA9F5BE3866F1B7F27.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/Autosaves/Game/FFBLAZE/Enemy/EnemyHotheads/Strafe-Sword_Auto3.uasset'
+[2022.07.14-17.10.52:377][999]LogFileHelpers: Auto-saving content packages took 0.129
+[2022.07.14-17.13.57:043][198]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_-Sword.hotblade_Anim_root_Idle_-Sword
+[2022.07.14-17.14.24:268][768]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.14.24:268][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.14.39:542][721]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_Weaksword.hotblade_Anim_root_Idle_Weaksword
+[2022.07.14-17.14.54:800][548]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_Idle_WeaksworA6DC01CC4A80DFB6CD99ED9CA08C7097.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_Weaksword.uasset'
+[2022.07.14-17.14.54:813][548]AssetCheck: New page: Asset Save: hotblade_Anim_root_Idle_Weaksword
+[2022.07.14-17.14.54:814][548]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_Idle_Weaksword.hotblade_Anim_root_Idle_Weaksword
+[2022.07.14-17.14.57:522][691]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.14.57:522][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.15.51:361][763]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.15.51:361][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.16.04:646][477]LogSavePackage: Moving 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Saved/hotblade_Anim_root_SwordCharge350DF6E449CB6863FEEB6D94C11698F0.tmp' to 'F:/Co-op/MoonRift/FFBlaze/FFBlazeGame/FFBlazeTest/Content/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.uasset'
+[2022.07.14-17.16.04:663][477]AssetCheck: New page: Asset Save: hotblade_Anim_root_SwordCharge
+[2022.07.14-17.16.04:663][477]LogContentValidation: Display: Validating AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.hotblade_Anim_root_SwordCharge
+[2022.07.14-17.16.09:008][729]LogEditorFactories: Performing atomic reimport of [F:/Co-op/MoonRift/FFBlaze/hotblade.fbx]
+[2022.07.14-17.16.09:033][729]LogFbx: Loading FBX Scene from F:/Co-op/MoonRift/FFBlaze/hotblade.fbx
+[2022.07.14-17.16.09:180][729]LogFbx: FBX Scene Loaded Succesfully
+[2022.07.14-17.16.09:215][729]LogFbx: Parsing AnimStack root|SwordCharge
+[2022.07.14-17.16.09:414][729]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.hotblade_Anim_root_SwordCharge
+[2022.07.14-17.16.09:420][729]LogEditorFactories: -- imported successfully
+[2022.07.14-17.16.09:429][729]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FFBLAZE/Enemy/EnemyHotheads/hotblade_Anim_root_SwordCharge.hotblade_Anim_root_SwordCharge
+[2022.07.14-17.16.37:225][325]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.16.37:225][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.17.03:386][807]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.17.03:387][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.17.26:089][ 34]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.14-17.17.26:089][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.14-17.17.41:591][969]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.14-17.17.42:133][969]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.542 s
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: === Handled ensure: ===
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: 
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: Ensure condition failed: Interval == SequenceLength/NumFrames [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Animation/AnimSequence.cpp] [Line: 1921]
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: 
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: Stack: 
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffebdf09fc9 UE4Editor-Engine.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffebc6cb5e3 UE4Editor-Engine.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffebc6a17f9 UE4Editor-Engine.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffea5e476c5 UE4Editor-Persona.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffea5e0d7a4 UE4Editor-Persona.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7e4ee75 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7e55660 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7e2b867 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7ec85fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7ee077e UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7e56dd5 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7d246be UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7da7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7d90367 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ffee7d83642 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff2b89bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff2b889197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff2b89e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff2b884310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff408ee858 USER32.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff408ee299 USER32.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff2b89f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ff7261c8857 UE4Editor.exe!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ff7261e11ac UE4Editor.exe!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ff7261e128a UE4Editor.exe!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ff7261f52ed UE4Editor.exe!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007ff7261f801a UE4Editor.exe!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff40787034 KERNEL32.DLL!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: [Callstack] 0x00007fff425c2651 ntdll.dll!UnknownFunction []
+[2022.07.14-17.17.42:133][969]LogOutputDevice: Error: 

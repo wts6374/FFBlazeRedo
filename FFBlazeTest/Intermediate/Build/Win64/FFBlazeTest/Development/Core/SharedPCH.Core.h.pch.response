@@ -36,11 +36,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
-/I F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core
-/Yc"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h"
-/Fp"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h.pch"
-"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.cpp"
-/Fo"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h.obj"
+/I F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core
+/Yc"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h"
+/Fp"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h.pch"
+"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.cpp"
+/Fo"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h.obj"
 /TP
 /GR-
 /W4

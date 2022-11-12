@@ -1,0 +1,894 @@
+﻿Log file open, 11/11/22 15:38:28
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FFBlazeTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.457285
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/WTS/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: Radeon RX 5500 XT
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/Program/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:102][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.11-20.38.29:102][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.11-20.38.29:103][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:103][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:118][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.11-20.38.29:118][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.11-20.38.29:119][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.11-20.38.29:119][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.11-20.38.29:119][  0]LogHAL: Display: Platform has ~ 32 GB [34258243584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.11-20.38.29:119][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2022.11.11-20.38.29:119][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:1]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.11-20.38.29:120][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.11-20.38.29:121][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.11-20.38.29:121][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.11-20.38.29:121][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.11-20.38.29:121][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+[2022.11.11-20.38.29:121][  0]LogInit: Computer: DESKTOP-6D5SDRF
+[2022.11.11-20.38.29:121][  0]LogInit: User: WTS
+[2022.11.11-20.38.29:121][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.11-20.38.29:121][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.11-20.38.29:121][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.11.11-20.38.29:121][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.11-20.38.29:121][  0]LogMemory: Process Physical Memory: 145.91 MB used, 145.91 MB peak
+[2022.11.11-20.38.29:121][  0]LogMemory: Process Virtual Memory: 132.05 MB used, 132.05 MB peak
+[2022.11.11-20.38.29:121][  0]LogMemory: Physical Memory: 7515.42 MB used,  25155.79 MB free, 32671.21 MB total
+[2022.11.11-20.38.29:121][  0]LogMemory: Virtual Memory: 134191288.00 MB used,  26438.14 MB free, 134217728.00 MB total
+[2022.11.11-20.38.29:126][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.11-20.38.29:146][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.11-20.38.29:147][  0]LogInit: Using OS detected language (en-US).
+[2022.11.11-20.38.29:147][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.11-20.38.29:149][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.11.11-20.38.29:381][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.11-20.38.29:390][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.11-20.38.29:424][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.11-20.38.29:424][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.11-20.38.29:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.11-20.38.29:670][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.11-20.38.29:670][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.11-20.38.29:670][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.11-20.38.29:710][  0]LogD3D11RHI:    0. 'Radeon RX 5500 XT' (Feature Level 11_0)
+[2022.11.11-20.38.29:710][  0]LogD3D11RHI:       8151/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2022.11.11-20.38.29:718][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.11-20.38.29:718][  0]LogD3D11RHI:       0/0/16335 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.11-20.38.29:718][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.11-20.38.29:722][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.11-20.38.29:722][  0]LogD3D11RHI:     GPU DeviceId: 0x7340 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.11-20.38.29:722][  0]LogWindows: EnumDisplayDevices:
+[2022.11.11-20.38.29:723][  0]LogWindows:    0. 'Radeon RX 5500 XT' (P:1 D:1)
+[2022.11.11-20.38.29:723][  0]LogWindows:    1. 'Radeon RX 5500 XT' (P:0 D:1)
+[2022.11.11-20.38.29:723][  0]LogWindows:    2. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.11.11-20.38.29:723][  0]LogWindows:    3. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.11.11-20.38.29:723][  0]LogWindows:    4. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.11.11-20.38.29:724][  0]LogWindows:    5. 'Radeon RX 5500 XT' (P:0 D:0)
+[2022.11.11-20.38.29:724][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.11.11-20.38.29:724][  0]LogD3D11RHI:     Adapter Name: Radeon RX 5500 XT
+[2022.11.11-20.38.29:724][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.27.02 (internal:31.0.12027.2007, unified:31.0.12027.2007)
+[2022.11.11-20.38.29:724][  0]LogD3D11RHI:      Driver Date: 9-7-2022
+[2022.11.11-20.38.29:724][  0]LogRHI: Texture pool is 5168 MB (70% of 7383 MB)
+[2022.11.11-20.38.29:788][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.11-20.38.29:788][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.11-20.38.29:788][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.11-20.38.29:803][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.11.11-20.38.30:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.11-20.38.30:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.11-20.38.30:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.11-20.38.30:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.11-20.38.30:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.11-20.38.30:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.11-20.38.30:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.11-20.38.30:107][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.11-20.38.30:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.11-20.38.30:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.11-20.38.30:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.11-20.38.30:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.11-20.38.30:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.11-20.38.30:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.11-20.38.30:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.11-20.38.30:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.11-20.38.30:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.11-20.38.30:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.11-20.38.30:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.11-20.38.30:189][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.11-20.38.30:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.11-20.38.30:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.11-20.38.30:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.11-20.38.30:208][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.11-20.38.30:214][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.11-20.38.30:270][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.11-20.38.30:270][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Intermediate/Shaders/WorkingDirectory/10988/).
+[2022.11.11-20.38.30:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/WTS/AppData/Local/Temp/UnrealShaderWorkingDir/F4B843F544EFDD20F9E292A0239AD05D/'.
+[2022.11.11-20.38.30:270][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.11-20.38.30:270][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.11-20.38.31:030][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.11-20.38.31:098][  0]LogDerivedDataCache: Loaded boot cache 0.07s 97MB C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.11-20.38.31:098][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.11-20.38.31:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.11-20.38.31:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.11-20.38.31:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.11-20.38.31:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.11-20.38.31:111][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.11-20.38.31:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.11-20.38.31:112][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.11-20.38.31:120][  0]LogDerivedDataCache: Speed tests for C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.11-20.38.31:120][  0]LogDerivedDataCache: Display: Performance to C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=282.31MBs, RandomWriteSpeed=214.15MBs. Assigned SpeedClass 'Local'
+[2022.11.11-20.38.31:120][  0]LogDerivedDataCache: Using Local data cache path C:/Users/WTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.11-20.38.31:120][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.11-20.38.31:120][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.11-20.38.31:160][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.11-20.38.31:160][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.11-20.38.31:195][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.11.11-20.38.31:378][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.11-20.38.31:378][  0]LogInit: Active device profile: [000001B92E99E200][000001B92CB4EC80 49] Windows
+[2022.11.11-20.38.31:378][  0]LogInit: Profiles: [000001B92E99E200][000001B92CB4EC80 49] Windows, [000001B92E952B00][000001B92CB56E00 49] WindowsNoEditor, [000001B92E99D200][000001B92CB5AF80 49] WindowsServer, [000001B92E953A00][000001B92ED07100 49] WindowsClient, [000001B92E99C200][000001B92ED0B280 49] IOS, [000001B92E950E00][000001B92ED0F400 49] iPadAir, [000001B92E99CF00][000001B92ED13580 49] iPadAir2, [000001B92E8F6200][000001B92ED177C0 49] IPadPro, [000001B92E8F6300][000001B92CB53800 49] iPadAir3, [000001B92E952E00][000001B92ED1B940 49] iPadAir4, [000001B92E8F7B00][000001B92ED1FA80 49] iPadMini2, [000001B92E951A00][000001B92ED27C00 49] iPadMini3, [000001B92E8F5500][000001B92ED2A0C0 49] iPadMini4, [000001B92E951900][000001B92ED2E240 49] iPadMini5, [000001B92E909B00][000001B92ED36500 49] iPhone6, [000001B92E909C00][000001B92ED32540 49] iPodTouch6, [000001B92E8F5E00][000001B92ED3E800 49] iPhone7, [000001B92E8F5C00][000001B92ED3A840 49] iPodTouch7, [000001B92E90B300][000001B92ED429C0 49] iPhone5S, [000001B92E8F6400][000001B92ED46B40 49] iPhone6Plus, [000001B92E909700][000001B92ED4ACC0 49] iPhone6S, [000001B92E8F6A00][000001B92ED4EE40 49] iPhone6SPlus, [000001B92E908700][000001B92ED52FC0 49] iPhone7Plus, [000001B92E8F7000][000001B92ED57140 49] iPhoneSE, [000001B92E90AE00][000001B92ED5B2C0 49] iPhone8, [000001B92E8F4500][000001B92ED5F440 49] iPhone8Plus, [000001B92E909500][000001B92ED635C0 49] iPhoneX, [000001B92E8F4B00][000001B92ED23700 49] iPhoneXS, [000001B92E90A800][000001B92ED67840 49] iPhoneXSMax, [000001B92E8F7F00][000001B92ED6B980 49] iPhoneXR, [000001B92E908B00][000001B92ED6FAC0 49] iPhone11, [000001B92E8F7500][000001B92ED77C40 49] iPhone11Pro, [000001B92E90BF00][000001B92ED7A100 49] iPhone11ProMax, [000001B92E8F6600][000001B92ED7E280 49] iPhoneSE2, [000001B92E908A00][000001B92ED82400 49] iPhone12Mini, [000001B92E8F4C00][000001B92ED86580 49] iPhone12, [000001B92E90B100][000001B92ED8A700 49] iPhone12Pro, [000001B92E99EA00][000001B92ED8E880 49] iPhone12ProMax, [000001B92E90B900][000001B92ED92A00 49] iPadPro105, [000001B92E99E600][000001B92ED96B80 49] iPadPro129, [000001B92E90AB00][000001B92ED9AD00 49] iPadPro97, [000001B92E99C900][000001B92ED9EE80 49] iPadPro2_129, [000001B92E909000][000001B92EDA3000 49] iPad5, [000001B92E99DF00][000001B92EDA7180 49] iPad6, [000001B92E908200][000001B92EDAB300 49] iPad7, [000001B92E99F800][000001B92EDAF480 49] iPad8, [000001B92E90A300][000001B92EDB3600 49] iPadPro11, [000001B92E99D900][000001B92EDB7780 49] iPadPro2_11, [000001B92E90AD00][000001B92ED738C0 49] iPadPro3_129, [000001B92E99DE00][000001B92EDBBA00 49] iPadPro4_129, [000001B92E909900][000001B92EDBFB40 49] AppleTV, [000001B92E99F400][000001B92EDC7CC0 49] AppleTV4K, [000001B92E90BD00][000001B92EDCA180 49] TVOS, [000001B92E99CC00][000001B92EDCE300 49] Mac, [000001B92E90A700][000001B92EDD2480 49] MacClient, [000001B92E99EE00][000001B92EDD6600 49] MacNoEditor, [000001B92E90A000][000001B92EDDA780 49] MacServer, [000001B92E99CA00][000001B92EDDE900 49] Linux, [000001B92E908D00][000001B92EDE2A80 49] LinuxNoEditor, [000001B92E99E800][000001B92EDE6C00 49] LinuxAArch64NoEditor, [000001B92E909100][000001B92EDEAD80 49] LinuxClient, [000001B92E99D500][000001B92EDEEF00 49] LinuxAArch64Client, [000001B92E90B000][000001B92EDF3080 49] LinuxServer, [000001B92E99E400][000001B92EDF7200 49] LinuxAArch64Server, [000001B92E908600][000001B92EDFB380 49] Android, [000001B92E99C800][000001B92EDFF500 49] Android_Low, [000001B92E90B400][000001B92EE03680 49] Android_Mid, [000001B92E99EF00][000001B92EE07800 49] Android_High, [000001B92E90A200][000001B92EDC3940 49] Android_Default, [000001B92E99ED00][000001B92EE0BA80 49] Android_Adreno4xx, [000001B92E909F00][000001B92EE0FBC0 49] Android_Adreno5xx_Low, [000001B92E99F000][000001B92EE13D00 49] Android_Adreno5xx, [000001B92E90B200][000001B92EE1A1C0 49] Android_Adreno6xx, [000001B92E99D000][000001B92EE1E340 49] Android_Adreno6xx_Vulkan, [000001B92E90BE00][000001B92EE224C0 49] Android_Mali_T6xx, [000001B92E99E700][000001B92EE26640 49] Android_Mali_T7xx, [000001B92E90BC00][000001B92EE2A7C0 49] Android_Mali_T8xx, [000001B92E99E000][000001B92EE2E940 49] Android_Mali_G71, [000001B92E90A500][000001B92EE32AC0 49] Android_Mali_G72, [000001B92E99F700][000001B92EE36C40 49] Android_Mali_G72_Vulkan, [000001B92E908300][000001B92EE3ADC0 49] Android_Mali_G76, [000001B92E99C100][000001B92EE3EF40 49] Android_Mali_G76_Vulkan, [000001B92E953F00][000001B92EE430C0 49] Android_Mali_G77, [000001B92E8F7700][000001B92EE47240 49] Android_Mali_G77_Vulkan, [000001B92E950700][000001B92EE4B3C0 49] Android_Vulkan_SM5, [000001B92E8F6100][000001B92EE4F540 49] Android_PowerVR_G6xxx, [000001B92E950100][000001B92EE536C0 49] Android_PowerVR_GT7xxx, [000001B92E8F4600][000001B92EE57840 49] Android_PowerVR_GE8xxx, [000001B92E952F00][000001B92EE17980 49] Android_PowerVR_GM9xxx, [000001B92E8F5300][000001B92EE5BAC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001B92E952D00][000001B92EE5FC00 49] Android_TegraK1, [000001B92E8F5100][000001B92EE63D40 49] Android_Unknown_Vulkan, [000001B92E952600][000001B92EE6A200 49] Lumin, [000001B92E8F5B00][000001B92EE6E380 49] Lumin_Desktop, [000001B92E951800][000001B92EE72500 49] HoloLens, 
+[2022.11.11-20.38.31:671][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.11-20.38.31:671][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.11-20.38.31:671][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.11-20.38.31:671][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.11-20.38.31:671][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.11-20.38.31:696][  0]LogNetVersion: FFBlazeTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3125185729)
+[2022.11.11-20.38.32:826][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.11-20.38.36:834][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 4.007666 seconds
+[2022.11.11-20.38.36:840][  0]LogUObjectArray: 17491 objects as part of root set at end of initial load.
+[2022.11.11-20.38.36:840][  0]LogUObjectAllocator: 4476048 out of 0 bytes used by permanent object pool.
+[2022.11.11-20.38.36:840][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.11-20.38.37:276][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.11-20.38.37:279][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.11-20.38.37:569][  0]SourceControl: Source control is disabled
+[2022.11.11-20.38.37:569][  0]SourceControl: Source control is disabled
+[2022.11.11-20.38.37:572][  0]SourceControl: Source control is disabled
+[2022.11.11-20.38.37:575][  0]SourceControl: Source control is disabled
+[2022.11.11-20.38.37:578][  0]SourceControl: Source control is disabled
+[2022.11.11-20.38.37:585][  0]LogUProjectInfo: Found projects:
+[2022.11.11-20.38.37:718][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.11-20.38.37:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.11-20.38.37:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.11-20.38.37:778][  0]LogCollectionManager: Loaded 0 collections in 0.000776 seconds
+[2022.11.11-20.38.37:796][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Saved/Collections/' took 0.00s
+[2022.11.11-20.38.37:796][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Content/Developers/WTS/Collections/' took 0.00s
+[2022.11.11-20.38.37:796][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Content/Collections/' took 0.00s
+[2022.11.11-20.38.37:796][  0]LogOcInput: OculusInput pre-init called
+[2022.11.11-20.38.37:805][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.11-20.38.37:805][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.11-20.38.37:852][  0]LogEngine: Initializing Engine...
+[2022.11.11-20.38.37:853][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.11-20.38.37:853][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.11-20.38.37:853][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.11-20.38.37:930][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.11-20.38.37:938][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.11-20.38.37:953][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.11-20.38.37:957][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.11-20.38.37:957][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.11-20.38.37:957][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.11-20.38.37:957][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.11-20.38.37:957][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.11-20.38.37:963][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.11-20.38.37:963][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.11-20.38.38:059][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.11.11-20.38.38:059][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.11-20.38.38:060][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.11-20.38.38:060][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.11-20.38.38:061][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.11-20.38.38:061][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.11-20.38.38:061][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.11-20.38.38:061][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.11-20.38.38:061][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.11-20.38.38:061][  0]LogInit: FAudioDevice initialized.
+[2022.11.11-20.38.38:062][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.11-20.38.38:062][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.11-20.38.38:106][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/WTS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.11-20.38.38:110][  0]LogInit: Texture streaming: Enabled
+[2022.11.11-20.38.38:119][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2022.11.11-20.38.38:122][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.11-20.38.38:123][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2979680C-4D7A-318C-5345-E6A88D969A3E}
+[2022.11.11-20.38.38:123][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.11-20.38.38:124][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.11-20.38.41:355][  0]LogInit: Transaction tracking system initialized
+[2022.11.11-20.38.41:382][  0]BlueprintLog: New page: Editor Load
+[2022.11.11-20.38.41:437][  0]LocalizationService: Localization service is disabled
+[2022.11.11-20.38.41:502][  0]TimingProfiler: Initialize
+[2022.11.11-20.38.41:502][  0]TimingProfiler: OnSessionChanged
+[2022.11.11-20.38.41:502][  0]LoadingProfiler: Initialize
+[2022.11.11-20.38.41:502][  0]LoadingProfiler: OnSessionChanged
+[2022.11.11-20.38.41:502][  0]NetworkingProfiler: Initialize
+[2022.11.11-20.38.41:502][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.11-20.38.41:502][  0]MemoryProfiler: Initialize
+[2022.11.11-20.38.41:502][  0]MemoryProfiler: OnSessionChanged
+[2022.11.11-20.38.41:505][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.11.11-20.38.41:505][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.11.11-20.38.41:680][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.11-20.38.41:680][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.11-20.38.41:878][  0]LogFileCache: Scanning file cache for directory 'F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Content/' took 0.02s
+[2022.11.11-20.38.41:985][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.11-20.38.41:987][  0]SourceControl: Source control is disabled
+[2022.11.11-20.38.41:988][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.507
+[2022.11.11-20.38.41:988][  0]Cmd: MAP LOAD FILE="F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Content/FFBLAZE/Levels/L_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.11-20.38.41:988][  0]LogEditorServer: Warning: Can't find file 'F:/Co-op/MoonRift/Redo/Remake/FFBlazeRedo/FFBlazeTest/Content/FFBLAZE/Levels/L_Tutorial.umap'
+[2022.11.11-20.38.41:988][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.11-20.38.41:988][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2022.11.11-20.38.41:988][  0]LogFileHelpers: Loading map 'L_Tutorial' took 0.000
+[2022.11.11-20.38.41:989][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.509
+[2022.11.11-20.38.42:111][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-20.38.42:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-20.38.42:120][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-20.38.42:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.11-20.38.42:139][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3658 classes and 871 folders.
+[2022.11.11-20.38.42:143][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.11-20.38.42:150][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.11-20.38.42:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.11-20.38.42:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.11.11-20.38.42:155][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.11-20.38.42:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.11-20.38.42:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.11.11-20.38.42:160][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.11-20.38.42:160][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.11-20.38.42:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.11.11-20.38.42:164][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.11-20.38.42:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.11-20.38.42:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.11.11-20.38.42:168][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.11-20.38.42:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.11-20.38.42:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.11.11-20.38.42:172][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.11-20.38.42:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.11-20.38.42:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.11.11-20.38.42:176][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.11-20.38.42:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.11-20.38.42:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.11.11-20.38.42:181][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.11-20.38.42:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.11-20.38.42:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.11.11-20.38.42:187][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.11-20.38.42:187][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.11-20.38.42:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.11.11-20.38.42:191][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.11-20.38.42:191][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:191][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.11-20.38.42:191][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.11.11-20.38.42:195][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.11-20.38.42:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.11-20.38.42:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.11.11-20.38.42:200][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.11-20.38.42:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.11-20.38.42:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.11.11-20.38.42:203][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.11-20.38.42:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.11-20.38.42:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.11.11-20.38.42:208][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.11-20.38.42:208][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:208][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.11-20.38.42:208][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.11.11-20.38.42:212][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.11-20.38.42:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.11-20.38.42:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.11.11-20.38.42:216][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.11-20.38.42:216][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:216][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.11-20.38.42:216][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.11.11-20.38.42:220][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.11-20.38.42:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.11-20.38.42:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.11.11-20.38.42:224][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.11-20.38.42:224][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:224][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.11-20.38.42:224][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.11.11-20.38.42:228][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.11-20.38.42:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.11-20.38.42:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.11.11-20.38.42:234][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.11-20.38.42:234][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:234][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.11-20.38.42:234][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.11.11-20.38.42:239][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.11-20.38.42:239][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:239][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.11-20.38.42:239][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.11.11-20.38.42:243][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.11-20.38.42:243][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.11-20.38.42:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.11-20.38.42:247][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.11-20.38.42:247][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:247][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.11-20.38.42:247][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.11-20.38.42:251][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.11-20.38.42:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.11-20.38.42:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.11.11-20.38.42:256][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.11-20.38.42:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.11-20.38.42:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.11.11-20.38.42:260][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.11-20.38.42:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.11-20.38.42:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.11-20.38.42:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.11-20.38.42:320][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.11-20.38.42:322][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2022.11.11-20.38.42:378][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.11-20.38.42:378][  0]LogLoad: (Engine Initialization) Total time: 14.90 seconds
+[2022.11.11-20.38.42:378][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.11-20.38.42:378][  0]LogInit: First time updating LLM stats...
+[2022.11.11-20.38.42:455][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.11.11-20.38.42:456][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.11-20.38.42:457][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.11-20.38.42:462][  0]LogSlate: Took 0.000657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.11-20.38.42:914][  0]LogRenderer: Reallocating scene render targets to support 1068x576 Format 9 NumSamples 1 (Frame:1).
+[2022.11.11-20.38.42:914][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.11-20.38.43:002][  1]LogAssetRegistry: Asset discovery search completed in 11.8087 seconds
+[2022.11.11-20.38.43:004][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.11-20.38.49:073][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.11-20.38.49:076][577]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.11-20.38.52:461][577]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.11-20.39.08:852][577]LogStats: FPlatformStackWalk::StackWalkAndDump - 16.391 s
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: 
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'True'! You must pass in fully qualified package names
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: Stack: 
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae791909 UE4Editor-CoreUObject.dll!DispatchCheckVerify<bool,<lambda_7e1d951a15cf27f5ba37b083fe549b9d> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae668c0c UE4Editor-CoreUObject.dll!FSoftObjectPath::SetPath() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp:79]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae5e1669 UE4Editor-CoreUObject.dll!FObjectPropertyBase::FindImportedObject() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyBaseObject.cpp:432]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae5f0ce9 UE4Editor-CoreUObject.dll!FObjectPropertyBase::ParseObjectPropertyValue() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyBaseObject.cpp:336]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae5ecca6 UE4Editor-CoreUObject.dll!FObjectPropertyBase::ImportText_Internal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyBaseObject.cpp:369]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae5ecb5f UE4Editor-CoreUObject.dll!FObjectProperty::ImportText_Internal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyObject.cpp:142]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae2a54f8 UE4Editor-CoreUObject.dll!FProperty::ImportText() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Public\UObject\UnrealType.h:351]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffea70d1448 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::PropertyValueFromString_Direct() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp:8812]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffea4d238c5 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CopyTermDefaultsToDefaultObject() [D:\Build\++UE4\Sync\Engine\Source\Editor\KismetCompiler\Private\KismetCompiler.cpp:1269]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffea4d4da88 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::PropagateValuesToCDO() [D:\Build\++UE4\Sync\Engine\Source\Editor\KismetCompiler\Private\KismetCompiler.cpp:1298]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffea41f7e1e UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::ReinstanceBatch() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:2071]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffea41a1282 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:1395]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffea419dfc3 UE4Editor-Kismet.dll!FBlueprintCompilationManager::FlushCompilationQueue() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:3070]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae2d2f80 UE4Editor-CoreUObject.dll!FScopedClassDependencyGather::~FScopedClassDependencyGather() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Blueprint\BlueprintSupport.cpp:454]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e177a UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:4832]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae518d7a UE4Editor-CoreUObject.dll!FLinkerLoad::IndexToObject() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:5065]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e0184 UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:4434]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e1c7b UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExportAndPreload() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3478]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae51a28c UE4Editor-CoreUObject.dll!FLinkerLoad::LoadAllObjects() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3643]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a9195 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1343]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4df6b7 UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:4313]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e1c7b UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExportAndPreload() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3478]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae51a28c UE4Editor-CoreUObject.dll!FLinkerLoad::LoadAllObjects() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3643]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a9195 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1343]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559861 UE4Editor-CoreUObject.dll!FLinkerLoad::Verify() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2558]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4f1da9 UE4Editor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2401]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55676a UE4Editor-CoreUObject.dll!FLinkerLoad::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:808]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e3bfe UE4Editor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:470]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae50f7f6 UE4Editor-CoreUObject.dll!GetPackageLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:815]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a8e53 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1234]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559861 UE4Editor-CoreUObject.dll!FLinkerLoad::Verify() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2558]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4f1da9 UE4Editor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2401]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55676a UE4Editor-CoreUObject.dll!FLinkerLoad::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:808]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e3bfe UE4Editor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:470]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae50f7f6 UE4Editor-CoreUObject.dll!GetPackageLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:815]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a8e53 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1234]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559861 UE4Editor-CoreUObject.dll!FLinkerLoad::Verify() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2558]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4f1da9 UE4Editor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2401]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55676a UE4Editor-CoreUObject.dll!FLinkerLoad::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:808]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e3bfe UE4Editor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:470]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae50f7f6 UE4Editor-CoreUObject.dll!GetPackageLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:815]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a8e53 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1234]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559861 UE4Editor-CoreUObject.dll!FLinkerLoad::Verify() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2558]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4f1da9 UE4Editor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2401]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55676a UE4Editor-CoreUObject.dll!FLinkerLoad::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:808]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e3bfe UE4Editor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:470]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae50f7f6 UE4Editor-CoreUObject.dll!GetPackageLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:815]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a8e53 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1234]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559861 UE4Editor-CoreUObject.dll!FLinkerLoad::Verify() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2558]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4f1da9 UE4Editor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2401]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55676a UE4Editor-CoreUObject.dll!FLinkerLoad::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:808]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e3bfe UE4Editor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:470]
+[2022.11.11-20.39.08:853][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae50f7f6 UE4Editor-CoreUObject.dll!GetPackageLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:815]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a8e53 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1234]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4d401d UE4Editor-CoreUObject.dll!<lambda_38585907d7588d083e5a58b4d3667b24>::operator()() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3029]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55b9a2 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3122]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55ba69 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImportInner() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3150]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559f97 UE4Editor-CoreUObject.dll!FLinkerLoad::VerifyImport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2786]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae559861 UE4Editor-CoreUObject.dll!FLinkerLoad::Verify() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2558]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4f1da9 UE4Editor-CoreUObject.dll!FLinkerLoad::FinalizeCreation() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:2401]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae55676a UE4Editor-CoreUObject.dll!FLinkerLoad::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:808]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae4e3bfe UE4Editor-CoreUObject.dll!FLinkerLoad::CreateLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:470]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae50f7f6 UE4Editor-CoreUObject.dll!GetPackageLinker() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Linker.cpp:815]
+[2022.11.11-20.39.08:854][577]LogOutputDevice: Error: [Callstack] 0x00007ffeae6a8e53 UE4Editor-CoreUObject.dll!LoadPacka

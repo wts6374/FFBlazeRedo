@@ -43,7 +43,7 @@ Windows.Engine:Core.System:HangDuration:0=0.0
 Windows.Engine:Core.System:AssetLogShowsDiskPath:0=True
 Windows.Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FFBLAZE/Levels/L_Title.L_Title
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FFBLAZE/Testmap.Testmap
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/StylishCombatKit/Main/GM_CombatGameMode.GM_CombatGameMode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
@@ -1960,7 +1960,7 @@ Windows.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowWidth:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowHeight:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=CD8AA31B423FD0C559BBF0A58B2C8D2F
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
@@ -2031,13 +2031,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:8=Signing
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:9=EncryptionKey
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:10=IniKeyBlacklist
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:11=IniSectionBlacklist
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/FFBLAZE/Levels/L_Title")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:1=(FilePath="/Game/FFBLAZE/Levels/L_Tutorial")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:2=(FilePath="/Game/FFBLAZE/Levels/L_FirstLevel")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:3=(FilePath="/Game/FFBLAZE/Levels/L_NewMap")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:4=(FilePath="/Game/FFBLAZE/Levels/L_Testmap2")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:5=(FilePath="/Game/FFBLAZE/Levels/Level4")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:6=(FilePath="/Game/FFBLAZE/Levels/L_FinalLevel")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/FFBLAZE/Testmap")
 Windows.Game:/Script/Engine.HUD:DebugDisplay:0=AI
 Windows.Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Windows.Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
@@ -4379,10 +4373,10 @@ RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F=2
 OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
+NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
-NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 Water:40D2FBA74B484CE5B0385A75884E499E=7
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17
 AudioSynesthesiaVer:82E77C4E332343A5B46B13C597310DF3=0

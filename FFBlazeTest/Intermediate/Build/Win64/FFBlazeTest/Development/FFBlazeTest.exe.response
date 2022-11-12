@@ -279,8 +279,8 @@
 "E:\Unreal\Program\UE_4.26\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Development\WebMMedia\Module.WebMMedia.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Plugins\Media\WebMMedia\Intermediate\Build\Win64\UE4\Development\WebMMediaFactory\WebMMediaFactoryModule.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Plugins\Runtime\WindowsMoviePlayer\Intermediate\Build\Win64\UE4\Development\WindowsMoviePlayer\Module.WindowsMoviePlayer.cpp.obj"
-"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h.obj"
-"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\UE4\Development\FFBlazeTest\FFBlazeTest.cpp.obj"
+"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Core\SharedPCH.Core.h.obj"
+"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\UE4\Development\FFBlazeTest\FFBlazeTest.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\BuildSettings\BuildSettings.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\TraceLog\Module.TraceLog.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\Core\PCH.Core.h.obj"
@@ -886,7 +886,7 @@
 "E:\Unreal\Program\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\AudioCaptureRtAudio\Module.AudioCaptureRtAudio.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\AudioAnalyzer\Module.AudioAnalyzer.cpp.obj"
 "E:\Unreal\Program\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Development\AudioAnalyzer\Module.AudioAnalyzer.gen.cpp.obj"
-"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Default.rc2.res"
+"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Intermediate\Build\Win64\FFBlazeTest\Development\Default.rc2.res"
 "E:\Unreal\Program\UE_4.26\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015\PhysX3PROFILE_x64.lib"
 "E:\Unreal\Program\UE_4.26\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015\PhysX3ExtensionsPROFILE_x64.lib"
 "E:\Unreal\Program\UE_4.26\Engine\Source\ThirdParty\PhysX3\Lib\Win64\VS2015\PhysX3CookingPROFILE_x64.lib"
@@ -992,8 +992,8 @@
 "DXGI.lib"
 "d3d11.lib"
 "legacy_stdio_definitions.lib"
-/OUT:"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Binaries\Win64\FFBlazeTest.exe"
-/PDB:"F:\Co-op\MoonRift\Backup\FFBlazeGame\FFBlazeTest\Binaries\Win64\FFBlazeTest.pdb"
+/OUT:"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Binaries\Win64\FFBlazeTest.exe"
+/PDB:"F:\Co-op\MoonRift\Redo\Remake\FFBlazeRedo\FFBlazeTest\Binaries\Win64\FFBlazeTest.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_Water
 /INCLUDE:IMPLEMENT_MODULE_Landmass

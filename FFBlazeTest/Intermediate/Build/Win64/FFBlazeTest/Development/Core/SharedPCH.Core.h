@@ -30,7 +30,7 @@
 #define WITH_CEF3 1
 #define WITH_LIVE_CODING 1
 #define UE_LIVE_CODING_ENGINE_DIR "E:\\Unreal\\Program\\UE_4.26\\Engine"
-#define UE_LIVE_CODING_PROJECT "F:\\Co-op\\MoonRift\\Backup\\FFBlazeGame\\FFBlazeTest\\FFBlazeTest.uproject"
+#define UE_LIVE_CODING_PROJECT "F:\\Co-op\\MoonRift\\Redo\\Remake\\FFBlazeRedo\\FFBlazeTest\\FFBlazeTest.uproject"
 #define UBT_MODULE_MANIFEST "UE4.modules"
 #define UBT_MODULE_MANIFEST_DEBUGGAME "UE4-Win64-DebugGame.modules"
 #define UBT_COMPILED_PLATFORM Win64

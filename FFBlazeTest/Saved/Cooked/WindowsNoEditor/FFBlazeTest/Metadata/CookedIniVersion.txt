@@ -342,7 +342,7 @@ Windows.Engine:/Script/Engine.Engine:HLODColorationColors:4=(R=1.0,G=0.0,B=1.0,A
 Windows.Engine:/Script/Engine.Engine:HLODColorationColors:5=(R=0.0,G=1.0,B=1.0,A=1.0) ; cyan
 Windows.Engine:/Script/Engine.Engine:HLODColorationColors:6=(R=0.5,G=0.5,B=0.5,A=1.0) ; grey
 Windows.Engine:/Script/Engine.Engine:MaxPixelShaderAdditiveComplexityCount:0=2000
-Windows.Engine:/Script/Engine.Engine:MaxES3PixelShaderAdditiveComplexityCount:0=800
+Windows.Engine:/Script/Engine.Engine:MaxES3PixelShaderAdditiveComplexityCount:0=1700
 Windows.Engine:/Script/Engine.Engine:bSubtitlesEnabled:0=True
 Windows.Engine:/Script/Engine.Engine:bSubtitlesForcedOff:0=false
 Windows.Engine:/Script/Engine.Engine:MaximumLoopIterationCount:0=1000000
@@ -913,7 +913,7 @@ Windows.Engine:NoShared:Root:0=(Type=KeyLength, Length=120, Inner=AsyncPut)
 Windows.Engine:NoShared:AsyncPut:0=(Type=AsyncPut, Inner=Hierarchy)
 Windows.Engine:NoShared:Hierarchy:0=(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=Local)
 Windows.Engine:NoShared:Boot:0=(Type=Boot, Filename="%GAMEDIR%DerivedDataCache/Boot.ddc", MaxCacheSize=512)
-Windows.Engine:NoShared:Local:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=%ENGINEDIR%DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
+Windows.Engine:NoShared:Local:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=%ENGINEDIR%DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath, EditorOverrideSetting=LocalDerivedDataCache)
 Windows.Engine:NoShared:Pak:0=(Type=ReadPak, Filename="%GAMEDIR%DerivedDataCache/DDC.ddp")
 Windows.Engine:CreatePak:MinimumDaysToKeepFile:0=7
 Windows.Engine:CreatePak:Root:0=(Type=KeyLength, Length=120, Inner=AsyncPut)
@@ -1493,7 +1493,6 @@ Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure:0=F
 Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AntiAliasing:0=1
 Windows.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 Windows.Engine:Messaging:bAllowDelayedMessaging:0=false
-Windows.Engine:RemoteSession:ChannelRedirects:0=(OldName=FRemoteSessionFrameBufferChannel,NewName=FRemoteSessionFrameBufferChannel_DEPRECATED)
 Windows.Engine:/Script/ChaosSolverEngine.ChaosSolverSettings:DefaultChaosSolverActorClass:0=/Script/ChaosSolverEngine.ChaosSolverActor
 Windows.Engine:/Script/Engine.VirtualTexturePoolConfig:DefaultSizeInMegabyte:0=64
 Windows.Engine:/Script/Engine.VirtualTexturePoolConfig:Pools:0=(SizeInMegabyte=64, MinTileSize=0, MaxTileSize=9999, Formats=(PF_DXT1, PF_DXT5))
@@ -1903,6 +1902,78 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
 Windows.Game:StartupActions:bAddPacks:0=False
 Windows.Game:StartupActions:InsertPack:0=(PackSource="StarterContent.upack",PackName="StarterContent")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/mw/Downloads/New folder (3)")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:InternationalizationPreset:0=English
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DefaultCulture:0=en
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bPakUsesSecondaryOrder:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:0=...\Content\Internationalization\...\*.icu
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:1=...\Content\Internationalization\...\*.brk
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:2=...\Content\Internationalization\...\*.res
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:3=...\Content\Internationalization\...\*.nrm
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:4=...\Content\Internationalization\...\*.cfu
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:5=...\Content\Localization\...\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:6=...\Content\Localization\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:7=...\Content\Certificates\...\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:8=...\Content\Certificates\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:9=-...\Content\Localization\Game\...\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:10=-...\Content\Localization\Game\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:11=...\Config\...\*.ini
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:12=...\Config\*.ini
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:13=...\Engine\GlobalShaderCache*.bin
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:14=...\Content\ShaderArchive-Global*.ushaderbytecode
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:15=...\Content\Slate\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:16=...\Content\Slate\...\*.*
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:17=...\*.upluginmanifest
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:18=...\*.uproject
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:19=...\global_sf*.metalmap
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateNoChunks:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bForceOneChunkPerFile:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataDirectory:0=(Path="")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionFormats:0=
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileAdditionalCompressionOptions:0=
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataVersion:0=
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeAppLocalPrerequisites:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=(Path="")
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:CulturesToStage:0=en
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:0=KeyStorePassword
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:1=KeyPassword
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:2=rsa.privateexp
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:3=rsa.modulus
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:4=rsa.publicexp
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:5=aes.key
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:6=SigningPublicExponent
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:7=SigningModulus
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:8=SigningPrivateExponent
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:9=EncryptionKey
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:10=IniKeyBlacklist
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:11=IniSectionBlacklist
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/FFBLAZE/Testmap")
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
 Windows.Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
@@ -1960,78 +2031,6 @@ Windows.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowWidth:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:MinWindowHeight:0=16
 Windows.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=CD8AA31B423FD0C559BBF0A58B2C8D2F
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:InternationalizationPreset:0=English
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DefaultCulture:0=en
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bPakUsesSecondaryOrder:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:0=...\Content\Internationalization\...\*.icu
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:1=...\Content\Internationalization\...\*.brk
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:2=...\Content\Internationalization\...\*.res
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:3=...\Content\Internationalization\...\*.nrm
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:4=...\Content\Internationalization\...\*.cfu
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:5=...\Content\Localization\...\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:6=...\Content\Localization\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:7=...\Content\Certificates\...\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:8=...\Content\Certificates\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:9=-...\Content\Localization\Game\...\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:10=-...\Content\Localization\Game\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:11=...\Config\...\*.ini
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:12=...\Config\*.ini
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:13=...\Engine\GlobalShaderCache*.bin
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:14=...\Content\ShaderArchive-Global*.ushaderbytecode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:15=...\Content\Slate\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:16=...\Content\Slate\...\*.*
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:17=...\*.upluginmanifest
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:18=...\*.uproject
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:19=...\global_sf*.metalmap
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="F/Co-op/MoonRift/FFBlazeTestBuild")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateNoChunks:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bForceOneChunkPerFile:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataDirectory:0=(Path="")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileCompressionFormats:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:PakFileAdditionalCompressionOptions:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataVersion:0=
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeAppLocalPrerequisites:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=(Path="")
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:CulturesToStage:0=en
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:0=KeyStorePassword
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:1=KeyPassword
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:2=rsa.privateexp
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:3=rsa.modulus
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:4=rsa.publicexp
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:5=aes.key
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:6=SigningPublicExponent
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:7=SigningModulus
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:8=SigningPrivateExponent
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:9=EncryptionKey
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:10=IniKeyBlacklist
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyBlacklist:11=IniSectionBlacklist
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/FFBLAZE/Testmap")
 Windows.Game:/Script/Engine.HUD:DebugDisplay:0=AI
 Windows.Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Windows.Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
@@ -3585,6 +3584,7 @@ Windows.Hardware:GPU_NVIDIA:Blacklist:4=(DriverVersion="==388.71", Reason="This 
 Windows.Hardware:GPU_NVIDIA:Blacklist:5=(DriverVersion="==376.54", Reason="This driver version has many known stability issues")
 Windows.Hardware:GPU_NVIDIA:Blacklist:6=(DriverVersion="==382.05", Reason="This driver version has many known stability issues")
 Windows.Hardware:GPU_NVIDIA:Blacklist:7=(DriverVersion="==388.57", Reason="This driver version has many known stability issues")
+Windows.Hardware:GPU_NVIDIA:Blacklist:8=(DriverVersion="==461.40", Reason="This driver version has known stability issues")
 Windows.Hardware:GPU_AMD:SuggestedDriverVersion:0=19.11.1
 Windows.Hardware:GPU_AMD:SuggestedDriverVersion:1=19.20.1;D3D12
 Windows.Hardware:GPU_AMD:Blacklist:0=(DriverVersion="==15.300.1025.1001", Reason="Crashes with Paragon content using more recent GPU features")
@@ -3649,43 +3649,44 @@ Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:54=MacClient,Mac
 Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:55=MacNoEditor,Mac
 Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:56=MacServer,Mac
 Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:57=Linux,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:58=LinuxNoEditor,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:59=LinuxAArch64NoEditor,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:60=LinuxClient,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:61=LinuxAArch64Client,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:62=LinuxServer,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:63=LinuxAArch64Server,Linux
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:64=Android,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:65=Android_Low,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:66=Android_Mid,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:67=Android_High,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:68=Android_Default,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:69=Android_Adreno4xx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:70=Android_Adreno5xx_Low,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:71=Android_Adreno5xx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:72=Android_Adreno6xx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:73=Android_Adreno6xx_Vulkan,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:74=Android_Mali_T6xx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:75=Android_Mali_T7xx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:76=Android_Mali_T8xx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:77=Android_Mali_G71,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:78=Android_Mali_G72,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:79=Android_Mali_G72_Vulkan,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:80=Android_Mali_G76,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:81=Android_Mali_G76_Vulkan,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:82=Android_Mali_G77,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:83=Android_Mali_G77_Vulkan,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:84=Android_Vulkan_SM5,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:85=Android_PowerVR_G6xxx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:86=Android_PowerVR_GT7xxx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:87=Android_PowerVR_GE8xxx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:88=Android_PowerVR_GM9xxx,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:89=Android_PowerVR_GM9xxx_Vulkan,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:90=Android_TegraK1,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:91=Android_Unknown_Vulkan,Android
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:92=Lumin,Lumin
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:93=Lumin_Desktop,Lumin
-Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:94=HoloLens,HoloLens
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:58=LinuxAArch64,Linux
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:59=LinuxNoEditor,Linux
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:60=LinuxAArch64NoEditor,LinuxAArch64
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:61=LinuxClient,Linux
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:62=LinuxAArch64Client,LinuxAArch64
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:63=LinuxServer,Linux
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:64=LinuxAArch64Server,LinuxAArch64
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:65=Android,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:66=Android_Low,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:67=Android_Mid,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:68=Android_High,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:69=Android_Default,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:70=Android_Adreno4xx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:71=Android_Adreno5xx_Low,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:72=Android_Adreno5xx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:73=Android_Adreno6xx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:74=Android_Adreno6xx_Vulkan,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:75=Android_Mali_T6xx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:76=Android_Mali_T7xx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:77=Android_Mali_T8xx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:78=Android_Mali_G71,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:79=Android_Mali_G72,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:80=Android_Mali_G72_Vulkan,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:81=Android_Mali_G76,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:82=Android_Mali_G76_Vulkan,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:83=Android_Mali_G77,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:84=Android_Mali_G77_Vulkan,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:85=Android_Vulkan_SM5,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:86=Android_PowerVR_G6xxx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:87=Android_PowerVR_GT7xxx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:88=Android_PowerVR_GE8xxx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:89=Android_PowerVR_GM9xxx,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:90=Android_PowerVR_GM9xxx_Vulkan,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:91=Android_TegraK1,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:92=Android_Unknown_Vulkan,Android
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:93=Lumin,Lumin
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:94=Lumin_Desktop,Lumin
+Windows.DeviceProfiles:DeviceProfiles:DeviceProfileNameAndTypes:95=HoloLens,HoloLens
 Windows.DeviceProfiles:/Script/Engine.TextureLODSettings:TextureLODGroups:0=(Group=TEXTUREGROUP_World,MinLODSize=1,MaxLODSize=16384,LODBias=0,MinMagFilter=aniso,MipFilter=point,MipGenSettings=TMGS_SimpleAverage)
 Windows.DeviceProfiles:/Script/Engine.TextureLODSettings:TextureLODGroups:1=(Group=TEXTUREGROUP_WorldNormalMap,MinLODSize=1,MaxLODSize=16384,LODBias=0,MinMagFilter=aniso,MipFilter=point,MipGenSettings=TMGS_SimpleAverage)
 Windows.DeviceProfiles:/Script/Engine.TextureLODSettings:TextureLODGroups:2=(Group=TEXTUREGROUP_WorldSpecular,MinLODSize=1,MaxLODSize=16384,LODBias=0,MinMagFilter=aniso,MipFilter=point,MipGenSettings=TMGS_SimpleAverage)
@@ -4251,6 +4252,8 @@ Windows.DeviceProfiles:LinuxAArch64Server DeviceProfile:MeshLODSettings:0=
 Windows.DeviceProfiles:LinuxAArch64Server DeviceProfile:TextureLODSettings:0=
 Windows.DeviceProfiles:HoloLens DeviceProfile:DeviceType:0=HoloLens
 Windows.DeviceProfiles:HoloLens DeviceProfile:BaseProfileName:0=WindowsNoEditor
+Windows.DeviceProfiles:HoloLens DeviceProfile:CVars:0=r.D3D11.Depth24Bit=1
+Windows.DeviceProfiles:HoloLens DeviceProfile:CVars:1=r.D3D12.Depth24Bit=1
 Windows.Niagara:/Script/Niagara.NiagaraSettings:AdditionalParameterEnums:0=/Niagara/Enums/ENiagaraCoordinateSpace.ENiagaraCoordinateSpace
 Windows.Niagara:/Script/Niagara.NiagaraSettings:AdditionalParameterEnums:1=/Niagara/Enums/ENiagaraOrientationAxis.ENiagaraOrientationAxis
 Windows.Niagara:/Script/Niagara.NiagaraSettings:AdditionalParameterEnums:2=/Niagara/Enums/ENiagaraRandomnessMode.ENiagaraRandomnessMode
@@ -4373,9 +4376,9 @@ RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F=2
 OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
-NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
+NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=66
 VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 Water:40D2FBA74B484CE5B0385A75884E499E=7
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17

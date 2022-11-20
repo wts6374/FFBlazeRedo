@@ -1,0 +1,631 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+Stats thread started at 0.177191
+Loaded GFSDK_Aftermath_Lib.x64.dll
+ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin AISupport
+Mounting plugin LightPropagationVolume
+Mounting plugin AnimationSharing
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin CameraShakePreviewer
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin NullSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin PlasticSourceControl
+Mounting plugin PluginUtils
+Mounting plugin PropertyAccessNode
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin SubversionSourceControl
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin Niagara
+Mounting plugin DatasmithContent
+Mounting plugin AssetManagerEditor
+Mounting plugin AlembicImporter
+Mounting plugin BackChannel
+Mounting plugin AutomationUtils
+Mounting plugin ChaosCloth
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosEditor
+Mounting plugin ChaosNiagara
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CharacterAI
+Mounting plugin VariantManagerContent
+Mounting plugin BlueprintMaterialTextureNodes
+Mounting plugin GeometryCache
+Mounting plugin CurveEditorTools
+Mounting plugin CryptoKeys
+Mounting plugin DataValidation
+Mounting plugin GeometryProcessing
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin FacialAnimation
+Mounting plugin GeometryMode
+Mounting plugin GameplayTagsEditor
+Mounting plugin MacGraphicsSwitching
+Mounting plugin MaterialAnalyzer
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin SpeedTreeImporter
+Mounting plugin PluginBrowser
+Mounting plugin Landmass
+Mounting plugin MotoSynth
+Mounting plugin PlanarCut
+Mounting plugin ProxyLODPlugin
+Mounting plugin PlatformCrypto
+Mounting plugin SkeletalReduction
+Mounting plugin Water
+Mounting plugin LuminPlatformFeatures
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin AndroidMedia
+Mounting plugin AvfMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin MLSDK
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin UdpMessaging
+Mounting plugin TcpMessaging
+Mounting plugin ActorSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin MatineeToLevelSequence
+Mounting plugin TemplateSequence
+Mounting plugin LauncherChunkInstaller
+Mounting plugin OnlineSubsystem
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidPermission
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin OnlineSubsystemNull
+Mounting plugin AudioCapture
+Mounting plugin AudioSynesthesia
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin ChunkDownloader
+Mounting plugin CableComponent
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GooglePAD
+Mounting plugin GoogleCloudMessaging
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin PropertyAccessEditor
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PhysXVehicles
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SoundFields
+Mounting plugin SignificanceManager
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin ScreenshotTools
+Mounting plugin WindowsMoviePlayer
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.26-CL-15973114
+Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+Net CL: 14830424
+OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+Compiled (64-bit): Apr 12 2021 06:14:10
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.26
+Command Line:  "D:\Github Storage\FFBlazeRedo\FFBlazeTest\FFBlazeTest.uproject" -run=Cook -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="D:\Unreal Engine\4.26.2\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2022.11.19-18.46.37.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: D:/Unreal Engine/4.26.2/UE_4.26/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+Setting CVar [[r.AllowGlobalClipPlane:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[fx.Niagara.QualityLevel:3]]
+Applying CVar settings from Section [FoliageQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 32 GB [34294538240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:1]]
+Setting CVar [[r.ViewDistanceScale:0.6]]
+Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:6]]
+Applying CVar settings from Section [ShadowQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[fx.Niagara.QualityLevel:3]]
+Applying CVar settings from Section [FoliageQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Config/Windows/Editor.ini]
+Computer: DESKTOP-0N5GLFJ
+User: mw
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=31.9GB (32GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 138.17 MB used, 138.18 MB peak
+Process Virtual Memory: 114.22 MB used, 114.22 MB peak
+Physical Memory: 14995.14 MB used,  17710.68 MB free, 32705.82 MB total
+Virtual Memory: 134208616.00 MB used,  9109.30 MB free, 134217728.00 MB total
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For WindowsNoEditor
+Lib vorbis DLL was dynamically loaded.
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so the 'en' localization will be used.
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Github Storage/FFBlazeRedo/FFBlazeTest/Intermediate/Shaders/WorkingDirectory/22004/).
+Cleaned the shader compiler working directory 'C:/Users/mw/AppData/Local/Temp/UnrealShaderWorkingDir/7AE267DD4420D4E93D558B91FA0E1BBD/'.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.00s 1MB C:/Users/mw/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/mw/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Github Storage/FFBlazeRedo/FFBlazeTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Github Storage/FFBlazeRedo/FFBlazeTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/mw/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/mw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=692.45MBs, RandomWriteSpeed=220.11MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/mw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+FAssetRegistry took 0.0018 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [00000233BD5EF300][00000233B6C834C0 49] Windows
+Profiles: [00000233BD5EF300][00000233B6C834C0 49] Windows, [00000233BD5C0F00][00000233B6C87600 49] WindowsNoEditor, [00000233BD5ECF00][00000233B6C8B740 49] WindowsServer, [00000233BD5C2B00][00000233B6C938C0 49] WindowsClient, [00000233BD5EEA00][00000233B6C97A40 49] IOS, [00000233BD5C1800][00000233B6C9BBC0 49] iPadAir, [00000233BD5ED700][00000233B6C9FD40 49] iPadAir2, [00000233BD574500][00000233B6DDE340 49] IPadPro, [00000233BD574600][00000233B6DD4380 49] iPadAir3, [00000233BD5EE400][00000233B6DE8500 49] iPadAir4, [00000233BD577000][00000233B6DEC680 49] iPadMini2, [00000233BD5EDC00][00000233B6DF0800 49] iPadMini3, [00000233BD575F00][00000233B6DF4980 49] iPadMini4, [00000233BD5ECC00][00000233B6DF8B00 49] iPadMini5, [00000233BD567D00][00000233BD2C0DC0 49] iPhone6, [00000233BD567E00][00000233B6DFCE00 49] iPodTouch6, [00000233BD576800][00000233BD2C90C0 49] iPhone7, [00000233BD576A00][00000233BD2C5100 49] iPodTouch7, [00000233BD565300][00000233BD2CD280 49] iPhone5S, [00000233BD574700][00000233B6C8F3C0 49] iPhone6Plus, [00000233BD566600][00000233BD2D1500 49] iPhone6S, [00000233BD577800][00000233BD2D5640 49] iPhone6SPlus, [00000233BD565B00][00000233BD2D9780 49] iPhone7Plus, [00000233BD576700][00000233BD2E1900 49] iPhoneSE, [00000233BD564900][00000233BD2E5A80 49] iPhone8, [00000233BD576E00][00000233BD2E9C00 49] iPhone8Plus, [00000233BD566900][00000233BD2EC0C0 49] iPhoneX, [00000233BD574D00][00000233BD2F0240 49] iPhoneXS, [00000233BD567F00][00000233BD2F43C0 49] iPhoneXSMax, [00000233BD574A00][00000233BD2F8540 49] iPhoneXR, [00000233BD566B00][00000233BD2FC6C0 49] iPhone11, [00000233BD577D00][00000233BD300840 49] iPhone11Pro, [00000233BD565900][00000233BD3049C0 49] iPhone11ProMax, [00000233BD577700][00000233BD308B40 49] iPhoneSE2, [00000233BD566A00][00000233BD30CCC0 49] iPhone12Mini, [00000233BD574200][00000233BD310E40 49] iPhone12, [00000233BD565400][00000233BD314FC0 49] iPhone12Pro, [00000233BD577400][00000233BD319140 49] iPhone12ProMax, [00000233BD566200][00000233BD31D2C0 49] iPadPro105, [00000233BD575600][00000233BD321440 49] iPadPro129, [00000233BD566400][00000233BD2DD580 49] iPadPro97, [00000233BD576200][00000233BD3256C0 49] iPadPro2_129, [00000233BD564F00][00000233BD329800 49] iPad5, [00000233BD574100][00000233BD331980 49] iPad6, [00000233BD564700][00000233BD335B00 49] iPad7, [00000233BD574300][00000233BD339C80 49] iPad8, [00000233BD567500][00000233BD33C140 49] iPadPro11, [00000233BD575C00][00000233BD3402C0 49] iPadPro2_11, [00000233BD564400][00000233BD344440 49] iPadPro3_129, [00000233BD576900][00000233BD3485C0 49] iPadPro4_129, [00000233BD564100][00000233BD34C740 49] AppleTV, [00000233BD576F00][00000233BD3508C0 49] AppleTV4K, [00000233BD565700][00000233BD354A40 49] TVOS, [00000233BD577100][00000233BD358BC0 49] Mac, [00000233BD564800][00000233BD35CD40 49] MacClient, [00000233BD576C00][00000233BD360EC0 49] MacNoEditor, [00000233BD564B00][00000233BD365040 49] MacServer, [00000233BD575500][00000233BD3691C0 49] Linux, [00000233BD565E00][00000233BD36D340 49] LinuxAArch64, [00000233BD5C0700][00000233BD3714C0 49] LinuxNoEditor, [00000233BD62CB00][00000233BD32D600 49] LinuxAArch64NoEditor, [00000233BD5C3C00][00000233BD375740 49] LinuxClient, [00000233BD62D500][00000233BD379880 49] LinuxAArch64Client, [00000233BD5C2500][00000233BD381A00 49] LinuxServer, [00000233BD62D300][00000233BD385B80 49] LinuxAArch64Server, [00000233BD5C2300][00000233BD389D00 49] Android, [00000233BD62C500][00000233BD38C1C0 49] Android_Low, [00000233BD5C3400][00000233BD390340 49] Android_Mid, [00000233BD62D800][00000233BD3944C0 49] Android_High, [00000233BD5C3700][00000233BD398640 49] Android_Default, [00000233BD62DC00][00000233BD39C7C0 49] Android_Adreno4xx, [00000233BD5C1200][00000233BD3A0940 49] Android_Adreno5xx_Low, [00000233BD62C300][00000233BD3A4AC0 49] Android_Adreno5xx, [00000233BD5C0400][00000233BD3A8C40 49] Android_Adreno6xx, [00000233BD62CE00][00000233BD3ACDC0 49] Android_Adreno6xx_Vulkan, [00000233BD5C3300][00000233BD3B0F40 49] Android_Mali_T6xx, [00000233BD62CD00][00000233BD3B50C0 49] Android_Mali_T7xx, [00000233BD564300][00000233BD3B9240 49] Android_Mali_T8xx, [00000233BD575400][00000233BD3BD3C0 49] Android_Mali_G71, [00000233BD565A00][00000233BD3C1540 49] Android_Mali_G72, [00000233BD574E00][00000233BD37D680 49] Android_Mali_G72_Vulkan, [00000233BD564C00][00000233BD3C57C0 49] Android_Mali_G76, [00000233BD575700][00000233BD3C9900 49] Android_Mali_G76_Vulkan, [00000233BD565200][00000233BD3CDA40 49] Android_Mali_G77, [00000233BD577F00][00000233BD3D5BC0 49] Android_Mali_G77_Vulkan, [00000233BD567300][00000233BD3D9D40 49] Android_Vulkan_SM5, [00000233BD574900][00000233BD3DC200 49] Android_PowerVR_G6xxx, [00000233BD564E00][00000233BD3E0380 49] Android_PowerVR_GT7xxx, [00000233BD574400][00000233BD3E4500 49] Android_PowerVR_GE8xxx, [00000233BD567100][00000233BD3E8680 49] Android_PowerVR_GM9xxx, [00000233BD576000][00000233BD3EC800 49] Android_PowerVR_GM9xxx_Vulkan, [00000233BD566300][00000233BD3F0980 49] Android_TegraK1, [00000233BD576300][00000233BD3F4B00 49] Android_Unknown_Vulkan, [00000233BD564600][00000233BD3F8C80 49] Lumin, [00000233BD574B00][00000233BD3FCE00 49] Lumin_Desktop, [00000233BD564200][00000233BD400F80 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+FFBlazeTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3125185729)
+PokeAHoleMaterial loaded successfully
+Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.021578 seconds
+Loaded 0 collections in 0.000703 seconds
+Scanning file cache for directory 'D:/Github Storage/FFBlazeRedo/FFBlazeTest/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'D:/Github Storage/FFBlazeRedo/FFBlazeTest/Content/Developers/mw/Collections/' took 0.00s
+Scanning file cache for directory 'D:/Github Storage/FFBlazeRedo/FFBlazeTest/Content/Collections/' took 0.00s
+Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Found projects:
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+OculusInput pre-init called
+Failed to load 'OVRPlugin.dll' (GetLastError=126)
+File 'OVRPlugin.dll' does not exist
+20951 objects as part of root set at end of initial load.
+5726256 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Saved boot cache 0.00s 1MB C:/Users/mw/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+Texture streaming: Disabled
+Initializing Editor Engine Completed
+New page: Editor Load
+CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+Mobile HDR setting 1
+Creating asset registry
+Discovering localized assets for cultures: en
+Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+Clearing all cooked content for platform WindowsNoEditor
+Sandbox cleanup took 0.018 seconds for platforms WindowsNoEditor
+Cooked packages 0 Packages Remain 49 Total 49
+Cook Diagnostics: OpenFileHandles=177, VirtualMemory=516MiB
+
+
+Script Stack (0 frames):
+
+FPlatformStackWalk::StackWalkAndDump -  4.588 s
+begin: stack for UAT
+=== Handled ensure: ===
+
+Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+Cannot create SoftObjectPath with short package name 'True'! You must pass in fully qualified package names
+Stack: 
+[Callstack] 0x00007ffcfbc41909 UE4Editor-CoreUObject.dll!DispatchCheckVerify<bool,<lambda_7e1d951a15cf27f5ba37b083fe549b9d> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[Callstack] 0x00007ffcfbb18b7c UE4Editor-CoreUObject.dll!FSoftObjectPath::SetPath() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SoftObjectPath.cpp:79]
+[Callstack] 0x00007ffcfba915e9 UE4Editor-CoreUObject.dll!FObjectPropertyBase::FindImportedObject() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyBaseObject.cpp:432]
+[Callstack] 0x00007ffcfbaa0c69 UE4Editor-CoreUObject.dll!FObjectPropertyBase::ParseObjectPropertyValue() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyBaseObject.cpp:336]
+[Callstack] 0x00007ffcfba9cc26 UE4Editor-CoreUObject.dll!FObjectPropertyBase::ImportText_Internal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyBaseObject.cpp:369]
+[Callstack] 0x00007ffcfba9cadf UE4Editor-CoreUObject.dll!FObjectProperty::ImportText_Internal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\PropertyObject.cpp:142]
+[Callstack] 0x00007ffcfb7554f8 UE4Editor-CoreUObject.dll!FProperty::ImportText() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Public\UObject\UnrealType.h:351]
+[Callstack] 0x00007ffcf7bd2a48 UE4Editor-UnrealEd.dll!FBlueprintEditorUtils::PropertyValueFromString_Direct() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\BlueprintEditorUtils.cpp:8819]
+[Callstack] 0x00007ffcd64f38b5 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::CopyTermDefaultsToDefaultObject() [D:\Build\++UE4\Sync\Engine\Source\Editor\KismetCompiler\Private\KismetCompiler.cpp:1275]
+[Callstack] 0x00007ffcd651da78 UE4Editor-KismetCompiler.dll!FKismetCompilerContext::PropagateValuesToCDO() [D:\Build\++UE4\Sync\Engine\Source\Editor\KismetCompiler\Private\KismetCompiler.cpp:1304]
+[Callstack] 0x00007ffcdb4e7e1e UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::ReinstanceBatch() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:2071]
+[Callstack] 0x00007ffcdb491282 UE4Editor-Kismet.dll!FBlueprintCompilationManagerImpl::FlushCompilationQueueImpl() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:1395]
+[Callstack] 0x00007ffcdb48dfc3 UE4Editor-Kismet.dll!FBlueprintCompilationManager::FlushCompilationQueue() [D:\Build\++UE4\Sync\Engine\Source\Editor\Kismet\Private\BlueprintCompilationManager.cpp:3070]
+[Callstack] 0x00007ffcfb782f70 UE4Editor-CoreUObject.dll!FScopedClassDependencyGather::~FScopedClassDependencyGather() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Blueprint\BlueprintSupport.cpp:454]
+[Callstack] 0x00007ffcfb9916da UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:4836]
+[Callstack] 0x00007ffcfb9c8d6a UE4Editor-CoreUObject.dll!FLinkerLoad::IndexToObject() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:5069]
+[Callstack] 0x00007ffcfb98f624 UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExport() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:4317]
+[Callstack] 0x00007ffcfb991bdb UE4Editor-CoreUObject.dll!FLinkerLoad::CreateExportAndPreload() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3482]
+[Callstack] 0x00007ffcfb9ca27c UE4Editor-CoreUObject.dll!FLinkerLoad::LoadAllObjects() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\LinkerLoad.cpp:3647]
+[Callstack] 0x00007ffcfbb590d5 UE4Editor-CoreUObject.dll!LoadPackageInternal() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1343]
+[Callstack] 0x00007ffcfbb57f30 UE4Editor-CoreUObject.dll!LoadPackage() [D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp:1458]
+[Callstack] 0x00007ffcf7686c4f UE4Editor-UnrealEd.dll!UCookOnTheFlyServer::LoadPackageForCooking() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\CookOnTheFlyServer.cpp:2086]
+[Callstack] 0x00007ffcf7686e93 UE4Editor-UnrealEd.dll!UCookOnTheFlyServer::LoadPackageInQueue() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\CookOnTheFlyServer.cpp:1665]
+[Callstack] 0x00007ffcf7692a03 UE4Editor-UnrealEd.dll!UCookOnTheFlyServer::PumpLoads() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\CookOnTheFlyServer.cpp:1614]
+[Callstack] 0x00007ffcf76a91a6 UE4Editor-UnrealEd.dll!UCookOnTheFlyServer::TickCookOnTheSide() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\CookOnTheFlyServer.cpp:1129]
+[Callstack] 0x00007ffcf74e5dfd UE4Editor-UnrealEd.dll!UCookCommandlet::CookByTheBook() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Commandlets\CookCommandlet.cpp:950]
+[Callstack] 0x00007ffcf750fc9a UE4Editor-UnrealEd.dll!UCookCommandlet::Main() [D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Commandlets\CookCommandlet.cpp:624]
+[Callstack] 0x00007ff73d2e9a29 UE4Editor-Cmd.exe!FEngineLoop::PreInitPostStartupScreen() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:3369]
+[Callstack] 0x00007ff73d2e0eec UE4Editor-Cmd.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:127]
+[Callstack] 0x00007ff73d2e125a UE4Editor-Cmd.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[Callstack] 0x00007ff73d2f52bd UE4Editor-Cmd.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[Callstack] 0x00007ff73d2f736e UE4Editor-Cmd.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[Callstack] 0x00007ffda86574b4 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ffda99226a1 ntdll.dll!UnknownFunction []
+
+end: stack for UAT
+               SubmitErrorReport -  0.000 s
